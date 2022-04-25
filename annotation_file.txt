@@ -1,0 +1,838 @@
+label	color	shape	title	exp
+HSP82	#76D7C4	circle	Type: gene<br>FC: 3.15<br>Function: Hsp90 chaperone<br>	UP
+CPR6	#76D7C4	circle	Type: gene<br>FC: 2.19<br>Function: Peptidyl-prolyl cis-trans isomerase (cyclophilin)<br>	UP
+YER135C	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Putative protein of unknown function<br>	UP
+SPS22	#76D7C4	circle	Type: gene<br>FC: 1.91<br>Function: Protein of unknown function<br>	UP
+ARG3	#76D7C4	circle	Type: gene<br>FC: 3.32<br>Function: Ornithine carbamoyltransferase<br>	UP
+SIP4	#76D7C4	circle	Type: gene<br>FC: 2.92<br>Function: C6 zinc cluster transcriptional activator<br>	UP
+ISF1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Serine-rich, hydrophilic protein<br>	UP
+SEO1	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Putative permease<br>	UP
+YEL073C	#76D7C4	circle	Type: gene<br>FC: 1.61<br>Function: Putative protein of unknown function<br>	UP
+YAL064W	#76D7C4	circle	Type: gene<br>FC: 1.24<br>Function: Protein of unknown function<br>	UP
+GLK1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Glucokinase<br>	UP
+PET10	#76D7C4	circle	Type: gene<br>FC: 2.22<br>Function: Perilipin, involved in formation and stability of lipid droplets<br>	UP
+GDH3	#76D7C4	circle	Type: gene<br>FC: 1.61<br>Function: NADP(+)-dependent glutamate dehydrogenase<br>	UP
+YCL042W	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Putative protein of unknown function<br>	UP
+YRO2	#76D7C4	circle	Type: gene<br>FC: 3.33<br>Function: Protein with a putative role in response to acid stress<br>	UP
+SHH3	#76D7C4	circle	Type: gene<br>FC: 3.19<br>Function: Putative mitochondrial inner membrane protein of unknown function<br>	UP
+TDA8	#76D7C4	circle	Type: gene<br>FC: 2.25<br>Function: Putative protein of unknown function<br>	UP
+REG2	#76D7C4	circle	Type: gene<br>FC: 1.54<br>Function: Regulatory subunit of the Glc7p type-1 protein phosphatase<br>	UP
+YER145C-A	#76D7C4	circle	Type: gene<br>FC: 3.29<br>Function: Putative protein of unknown function<br>	UP
+HBN1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Protein of unknown function<br>	UP
+FRM2	#76D7C4	circle	Type: gene<br>FC: 1.88<br>Function: Type II nitroreductase, using NADH as reductant<br>	UP
+GCV1	#76D7C4	circle	Type: gene<br>FC: 0.88<br>Function: T subunit of the mitochondrial glycine decarboxylase complex<br>	UP
+YOR338W	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Putative protein of unknown function<br>	UP
+RTA1	#76D7C4	circle	Type: gene<br>FC: 1.43<br>Function: Protein involved in 7-aminocholesterol resistance<br>	UP
+YPR027C	#76D7C4	circle	Type: gene<br>FC: 0.72<br>Function: Putative protein of unknown function<br>	UP
+MAG1	#76D7C4	circle	Type: gene<br>FC: 1.42<br>Function: 3-methyl-adenine DNA glycosylase<br>	UP
+STE3	#76D7C4	circle	Type: gene<br>FC: 2.02<br>Function: Receptor for a factor pheromone<br>	UP
+YGL081W	#76D7C4	circle	Type: gene<br>FC: 1.59<br>Function: Putative protein of unknown function<br>	UP
+KDX1	#76D7C4	circle	Type: gene<br>FC: 1.82<br>Function: Protein kinase<br>	UP
+PIR3	#76D7C4	circle	Type: gene<br>FC: 2.69<br>Function: O-glycosylated covalently-bound cell wall protein<br>	UP
+SNO1	#76D7C4	circle	Type: gene<br>FC: 2.01<br>Function: Protein of unconfirmed function<br>	UP
+GPH1	#76D7C4	circle	Type: gene<br>FC: 3.18<br>Function: Glycogen phosphorylase required for the mobilization of glycogen<br>	UP
+YDR018C	#76D7C4	circle	Type: gene<br>FC: 2.13<br>Function: Probable membrane protein with three predicted transmembrane domains<br>	UP
+YMR090W	#76D7C4	circle	Type: gene<br>FC: 1.88<br>Function: Putative protein of unknown function<br>	UP
+HXT14	#76D7C4	circle	Type: gene<br>FC: 3.19<br>Function: Protein with similarity to hexose transporter family members<br>	UP
+PHM8	#76D7C4	circle	Type: gene<br>FC: 3.87<br>Function: Lysophosphatidic acid (LPA) phosphatase, nucleotidase<br>	UP
+YBR285W	#76D7C4	circle	Type: gene<br>FC: 2.23<br>Function: Putative protein of unknown function<br>	UP
+PRB1	#76D7C4	circle	Type: gene<br>FC: 1.62<br>Function: Vacuolar proteinase B (yscB) with H3 N-terminal endopeptidase activity<br>	UP
+YBR284W	#76D7C4	circle	Type: gene<br>FC: 1.76<br>Function: Putative metallo-dependent hydrolase superfamily protein<br>	UP
+PGM2	#76D7C4	circle	Type: gene<br>FC: 2.45<br>Function: Phosphoglucomutase<br>	UP
+HXT13	#76D7C4	circle	Type: gene<br>FC: 1.7<br>Function: Putative transmembrane polyol transporter<br>	UP
+SPS19	#76D7C4	circle	Type: gene<br>FC: 2.01<br>Function: Peroxisomal 2,4-dienoyl-CoA reductase<br>	UP
+SPI1	#76D7C4	circle	Type: gene<br>FC: 2.59<br>Function: GPI-anchored cell wall protein involved in weak acid resistance<br>	UP
+YLR312C	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Autophagy receptor with a role in degradation of the ER and nucleus<br>	UP
+SUE1	#76D7C4	circle	Type: gene<br>FC: 2.99<br>Function: Protein required for degradation of unstable forms of cytochrome c<br>	UP
+KTR2	#76D7C4	circle	Type: gene<br>FC: 1.69<br>Function: Mannosyltransferase involved in N-linked protein glycosylation<br>	UP
+STF1	#76D7C4	circle	Type: gene<br>FC: 2.31<br>Function: Protein involved in regulation of the mitochondrial F1F0-ATP synthase<br>	UP
+SPR28	#76D7C4	circle	Type: gene<br>FC: 4.17<br>Function: Sporulation-specific homolog of the CDC3/10/11/12 family of genes<br>	UP
+AHA1	#76D7C4	circle	Type: gene<br>FC: 2.02<br>Function: Co-chaperone that binds Hsp82p and activates its ATPase activity<br>	UP
+HED1	#76D7C4	circle	Type: gene<br>FC: 2.77<br>Function: Meiosis-specific protein<br>	UP
+HBT1	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Shmoo tip protein, substrate of Hub1p ubiquitin-like protein<br>	UP
+FMP45	#76D7C4	circle	Type: gene<br>FC: 2.14<br>Function: Integral membrane protein localized to mitochondria<br>	UP
+SPO23	#76D7C4	circle	Type: gene<br>FC: 2.07<br>Function: Protein of unknown function<br>	UP
+YCL001W-A	#76D7C4	circle	Type: gene<br>FC: 1.47<br>Function: Putative protein of unknown function<br>	UP
+PHO92	#76D7C4	circle	Type: gene<br>FC: 3.22<br>Function: Posttranscriptional regulator of phosphate and glucose metabolism<br>	UP
+YEL059W	#76D7C4	circle	Type: gene<br>FC: 3.24<br>Function: Putative protein of unknown function<br>	UP
+HXT11	#76D7C4	circle	Type: gene<br>FC: 2.13<br>Function: Hexose transporter<br>	UP
+CRF1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Transcriptional corepressor<br>	UP
+LDS2	#76D7C4	circle	Type: gene<br>FC: 2.92<br>Function: Protein Involved in spore wall assembly<br>	UP
+YMR244W	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Putative protein of unknown function<br>	UP
+GRE1	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Hydrophilin essential in desiccation-rehydration process<br>	UP
+PEX18	#76D7C4	circle	Type: gene<br>FC: 3.03<br>Function: Peroxin<br>	UP
+RTC2	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Putative vacuolar membrane transporter for cationic amino acids<br>	UP
+YOL013W-A	#76D7C4	circle	Type: gene<br>FC: 2.03<br>Function: Putative protein of unknown function<br>	UP
+YSW1	#76D7C4	circle	Type: gene<br>FC: 1.31<br>Function: Protein required for normal prospore membrane formation<br>	UP
+TDH1	#76D7C4	circle	Type: gene<br>FC: 2.78<br>Function: Glyceraldehyde-3-phosphate dehydrogenase (GAPDH), isozyme 1<br>	UP
+GYP7	#76D7C4	circle	Type: gene<br>FC: 1.29<br>Function: GTPase-activating protein for yeast Rab family members<br>	UP
+PUN1	#76D7C4	circle	Type: gene<br>FC: 1.14<br>Function: Plasma membrane protein with a role in cell wall integrity<br>	UP
+MEI5	#76D7C4	circle	Type: gene<br>FC: 4.61<br>Function: Meiosis-specific protein involved in meiotic recombination<br>	UP
+MLS1	#76D7C4	circle	Type: gene<br>FC: 2.06<br>Function: Malate synthase, enzyme of the glyoxylate cycle<br>	UP
+MIP6	#76D7C4	circle	Type: gene<br>FC: 1.46<br>Function: Putative RNA-binding protein<br>	UP
+YIL014C-A	#76D7C4	circle	Type: gene<br>FC: 1.7<br>Function: Putative protein of unknown function<br>	UP
+SPO13	#76D7C4	circle	Type: gene<br>FC: 1.71<br>Function: Meiotic regulator<br>	UP
+YOL162W	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Putative protein of unknown function<br>	UP
+YOL163W	#76D7C4	circle	Type: gene<br>FC: 1.46<br>Function: Putative protein of unknown function<br>	UP
+YOL160W	#76D7C4	circle	Type: gene<br>FC: 1.44<br>Function: Putative protein of unknown function<br>	UP
+YOR381W-A	#76D7C4	circle	Type: gene<br>FC: 0.9<br>Function: Putative protein of unknown function<br>	UP
+FMP33	#76D7C4	circle	Type: gene<br>FC: 2.76<br>Function: Putative protein of unknown function<br>	UP
+THI12	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Protein involved in synthesis of the thiamine precursor HMP<br>	UP
+SAE3	#76D7C4	circle	Type: gene<br>FC: 3.86<br>Function: Meiosis-specific protein involved in meiotic recombination<br>	UP
+CDA1	#76D7C4	circle	Type: gene<br>FC: 2.78<br>Function: Chitin deacetylase<br>	UP
+ARG1	#76D7C4	circle	Type: gene<br>FC: 2.46<br>Function: Arginosuccinate synthetase<br>	UP
+PAU2	#76D7C4	circle	Type: gene<br>FC: 1.87<br>Function: Member of the seripauperin multigene family<br>	UP
+TSL1	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Large subunit of trehalose 6-phosphate synthase/phosphatase complex<br>	UP
+YJL160C	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Putative protein of unknown function<br>	UP
+GPX1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Phospholipid hydroperoxide glutathione peroxidase<br>	UP
+DMC1	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Meiosis-specific recombinase required for double-strand break repair<br>	UP
+SPO19	#76D7C4	circle	Type: gene<br>FC: 1.78<br>Function: Meiosis-specific prospore protein<br>	UP
+YBR085C-A	#76D7C4	circle	Type: gene<br>FC: 1.91<br>Function: Protein of unknown function<br>	UP
+PNC1	#76D7C4	circle	Type: gene<br>FC: 2.14<br>Function: Nicotinamidase that converts nicotinamide to nicotinic acid<br>	UP
+YBR056W-A	#76D7C4	circle	Type: gene<br>FC: 1.39<br>Function: Putative membrane protein upregulated in toxic manganese levels<br>	UP
+RRT5	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Putative protein of unknown function<br>	UP
+YET2	#76D7C4	circle	Type: gene<br>FC: 1.69<br>Function: Protein of unknown function that may interact with ribosomes<br>	UP
+YJL045W	#76D7C4	circle	Type: gene<br>FC: 3.39<br>Function: Minor succinate dehydrogenase isozyme<br>	UP
+LEE1	#76D7C4	circle	Type: gene<br>FC: 2.94<br>Function: Zinc-finger protein of unknown function<br>	UP
+YJL043W	#76D7C4	circle	Type: gene<br>FC: 1.3<br>Function: Putative protein of unknown function<br>	UP
+SSE2	#76D7C4	circle	Type: gene<br>FC: 2.07<br>Function: Member of Hsp110 subclass of the heat shock protein 70 (HSP70) family<br>	UP
+YPS6	#76D7C4	circle	Type: gene<br>FC: 2.06<br>Function: Putative GPI-anchored aspartic protease<br>	UP
+GND2	#76D7C4	circle	Type: gene<br>FC: 3.1<br>Function: 6-phosphogluconate dehydrogenase (decarboxylating)<br>	UP
+ENO1	#76D7C4	circle	Type: gene<br>FC: 1.58<br>Function: Enolase I, a phosphopyruvate hydratase<br>	UP
+YER175W-A	#76D7C4	circle	Type: gene<br>FC: 1.79<br>Function: Putative protein of unknown function<br>	UP
+CYC7	#76D7C4	circle	Type: gene<br>FC: 2.59<br>Function: Cytochrome c isoform 2, expressed under hypoxic conditions<br>	UP
+PES4	#76D7C4	circle	Type: gene<br>FC: 3.2<br>Function: Poly(A) binding protein, suppressor of DNA polymerase epsilon mutation<br>	UP
+UTR5	#76D7C4	circle	Type: gene<br>FC: 3.49<br>Function: Protein of unknown function<br>	UP
+IME4	#76D7C4	circle	Type: gene<br>FC: 1.19<br>Function: mRNA N6-adenosine methyltransferase<br>	UP
+YNL277W-A	#76D7C4	circle	Type: gene<br>FC: 1.9<br>Function: Putative protein of unknown function<br>	UP
+YKR015C	#76D7C4	circle	Type: gene<br>FC: 2.26<br>Function: Putative protein of unknown function<br>	UP
+BOP2	#76D7C4	circle	Type: gene<br>FC: 2.21<br>Function: Protein of unknown function<br>	UP
+YKR011C	#76D7C4	circle	Type: gene<br>FC: 0.99<br>Function: Protein of unknown function<br>	UP
+MAM1	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Monopolin<br>	UP
+DIA3	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Protein of unknown function<br>	UP
+SSA4	#76D7C4	circle	Type: gene<br>FC: 4.77<br>Function: Heat shock protein that is highly induced upon stress<br>	UP
+DAL1	#76D7C4	circle	Type: gene<br>FC: 2.88<br>Function: Allantoinase<br>	UP
+DAL4	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Allantoin permease<br>	UP
+PHM7	#76D7C4	circle	Type: gene<br>FC: 1.84<br>Function: Protein of unknown function<br>	UP
+YJL047C-A	#76D7C4	circle	Type: gene<br>FC: 1.37<br>Function: Putative protein of unknown function<br>	UP
+YPR145C-A	#76D7C4	circle	Type: gene<br>FC: 1.45<br>Function: Putative protein of unknown function<br>	UP
+MTH1	#76D7C4	circle	Type: gene<br>FC: 1.32<br>Function: Negative regulator of the glucose-sensing signal transduction pathway<br>	UP
+IRC18	#76D7C4	circle	Type: gene<br>FC: 3.03<br>Function: Protein involved in outer spore wall assembly<br>	UP
+LOH1	#76D7C4	circle	Type: gene<br>FC: 2.96<br>Function: Protein involved in outer spore wall assembly<br>	UP
+SOL4	#76D7C4	circle	Type: gene<br>FC: 3.94<br>Function: 6-phosphogluconolactonase<br>	UP
+GPM2	#76D7C4	circle	Type: gene<br>FC: 2.98<br>Function: Nonfunctional homolog of Gpm1p phosphoglycerate mutase<br>	UP
+ARO10	#76D7C4	circle	Type: gene<br>FC: 1.92<br>Function: Phenylpyruvate decarboxylase<br>	UP
+Q0255	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: Maturase-like protein<br>	UP
+YAL063C-A	#76D7C4	circle	Type: gene<br>FC: 2.06<br>Function: Putative protein of unknown function<br>	UP
+SSA1	#76D7C4	circle	Type: gene<br>FC: 2.08<br>Function: ATPase involved in protein folding and NLS-directed nuclear transport<br>	UP
+SFC1	#76D7C4	circle	Type: gene<br>FC: 2.64<br>Function: Mitochondrial succinate-fumarate transporter<br>	UP
+YJR096W	#76D7C4	circle	Type: gene<br>FC: 1.67<br>Function: Xylose and arabinose reductase<br>	UP
+YOR365C	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Putative protein involved in sphingolipid biosynthesis<br>	UP
+GAD1	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Glutamate decarboxylase<br>	UP
+SUL1	#76D7C4	circle	Type: gene<br>FC: 1.72<br>Function: High affinity sulfate permease of the SulP anion transporter family<br>	UP
+HXK1	#76D7C4	circle	Type: gene<br>FC: 2.82<br>Function: Hexokinase isoenzyme 1<br>	UP
+PHO89	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Plasma membrane Na+/Pi cotransporter<br>	UP
+YHL012W	#76D7C4	circle	Type: gene<br>FC: 1.96<br>Function: Putative UTP glucose-1-phosphate uridylyltransferase<br>	UP
+HXT10	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Hexose transporter<br>	UP
+YPS3	#76D7C4	circle	Type: gene<br>FC: 1.62<br>Function: Aspartic protease<br>	UP
+OPT2	#76D7C4	circle	Type: gene<br>FC: 2.03<br>Function: Oligopeptide transporter<br>	UP
+GAT4	#76D7C4	circle	Type: gene<br>FC: 1.98<br>Function: Protein containing GATA family zinc finger motifs<br>	UP
+YPR195C	#76D7C4	circle	Type: gene<br>FC: 2.28<br>Function: Putative protein of unknown function<br>	UP
+HSP12	#76D7C4	circle	Type: gene<br>FC: 7.14<br>Function: Plasma membrane protein involved in maintaining membrane organization<br>	UP
+HSP10	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Mitochondrial matrix co-chaperonin<br>	UP
+YFL012W	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Putative protein of unknown function<br>	UP
+PCH2	#76D7C4	circle	Type: gene<br>FC: 3.4<br>Function: Hexameric ring ATPase that remodels chromosome axis protein Hop1p<br>	UP
+REC114	#76D7C4	circle	Type: gene<br>FC: 1.74<br>Function: Protein involved in early stages of meiotic recombination<br>	UP
+STI1	#76D7C4	circle	Type: gene<br>FC: 1.63<br>Function: Evolutionarily-conserved Hsp90 cochaperone<br>	UP
+SPG1	#76D7C4	circle	Type: gene<br>FC: 1.45<br>Function: Protein required for high temperature survival during stationary phase<br>	UP
+YPT53	#76D7C4	circle	Type: gene<br>FC: 2.2<br>Function: Stress-induced Rab family GTPase<br>	UP
+YCL048W-A	#76D7C4	circle	Type: gene<br>FC: 4.24<br>Function: Putative protein of unknown function<br>	UP
+YER121W	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Putative protein of unknown function<br>	UP
+SPO74	#76D7C4	circle	Type: gene<br>FC: 2.47<br>Function: Component of the meiotic outer plaque of the spindle pole body<br>	UP
+MEK1	#76D7C4	circle	Type: gene<br>FC: 2.78<br>Function: Meiosis-specific serine/threonine protein kinase<br>	UP
+YCR007C	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Putative integral membrane protein<br>	UP
+DAL80	#76D7C4	circle	Type: gene<br>FC: 2.84<br>Function: Negative regulator of genes in multiple nitrogen degradation pathways<br>	UP
+SET6	#76D7C4	circle	Type: gene<br>FC: 1.49<br>Function: SET domain protein of unknown function<br>	UP
+RCR1	#76D7C4	circle	Type: gene<br>FC: 1.37<br>Function: Plasma membrane (PM) ubiquitin ligase-substrate adaptor<br>	UP
+RIM4	#76D7C4	circle	Type: gene<br>FC: 2.34<br>Function: Putative RNA-binding protein<br>	UP
+YPR078C	#76D7C4	circle	Type: gene<br>FC: 3.15<br>Function: Putative protein of unknown function<br>	UP
+BNA2	#76D7C4	circle	Type: gene<br>FC: 3.59<br>Function: Tryptophan 2,3-dioxygenase or indoleamine 2,3-dioxygenase<br>	UP
+GDB1	#76D7C4	circle	Type: gene<br>FC: 2.04<br>Function: Glycogen debranching enzyme<br>	UP
+AMA1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Activator of meiotic anaphase promoting complex (APC/C)<br>	UP
+KNH1	#76D7C4	circle	Type: gene<br>FC: 1.62<br>Function: Protein with similarity to Kre9p<br>	UP
+HSP78	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Oligomeric mitochondrial matrix chaperone<br>	UP
+PUT1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Proline oxidase<br>	UP
+MND1	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Protein required for recombination and meiotic nuclear division<br>	UP
+STR3	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Peroxisomal cystathionine beta-lyase<br>	UP
+CLD1	#76D7C4	circle	Type: gene<br>FC: 2.64<br>Function: Mitochondrial cardiolipin-specific phospholipase<br>	UP
+YIL060W	#76D7C4	circle	Type: gene<br>FC: 2.11<br>Function: Mitochondrial protein of unknown function<br>	UP
+ATO2	#76D7C4	circle	Type: gene<br>FC: 1.75<br>Function: Putative transmembrane protein involved in export of ammonia<br>	UP
+HSP31	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Methylglyoxalase that converts methylglyoxal to D-lactate<br>	UP
+IRC15	#76D7C4	circle	Type: gene<br>FC: 3.17<br>Function: Microtubule associated protein<br>	UP
+DDR2	#76D7C4	circle	Type: gene<br>FC: 4.59<br>Function: Multi-stress response protein<br>	UP
+TPO2	#76D7C4	circle	Type: gene<br>FC: 2.58<br>Function: Polyamine transporter of the major facilitator superfamily<br>	UP
+RNP1	#76D7C4	circle	Type: gene<br>FC: 3.52<br>Function: Ribonucleoprotein that contains two RNA recognition motifs (RRM)<br>	UP
+SLZ1	#76D7C4	circle	Type: gene<br>FC: 2.17<br>Function: Sporulation-specific protein with a leucine zipper motif<br>	UP
+YNL194C	#76D7C4	circle	Type: gene<br>FC: 4.05<br>Function: Integral membrane protein<br>	UP
+YLR031W	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: Putative protein of unknown function<br>	UP
+HSP30	#76D7C4	circle	Type: gene<br>FC: 2.69<br>Function: Negative regulator of the H(+)-ATPase Pma1p<br>	UP
+YLR030W	#76D7C4	circle	Type: gene<br>FC: 2.49<br>Function: Putative protein of unknown function<br>	UP
+VBA5	#76D7C4	circle	Type: gene<br>FC: 2.47<br>Function: Plasma membrane protein of the Major Facilitator Superfamily (MFS)<br>	UP
+GCY1	#76D7C4	circle	Type: gene<br>FC: 1.72<br>Function: Glycerol dehydrogenase<br>	UP
+YHR139C-A	#76D7C4	circle	Type: gene<br>FC: 2.16<br>Function: Putative protein of unknown function<br>	UP
+AMS1	#76D7C4	circle	Type: gene<br>FC: 2.43<br>Function: Vacuolar alpha mannosidase<br>	UP
+HXT8	#76D7C4	circle	Type: gene<br>FC: 1.3<br>Function: Protein of unknown function with similarity to hexose transporters<br>	UP
+CMK2	#76D7C4	circle	Type: gene<br>FC: 1.06<br>Function: Calmodulin-dependent protein kinase<br>	UP
+RCK1	#76D7C4	circle	Type: gene<br>FC: 1.5<br>Function: Protein kinase involved in oxidative stress response<br>	UP
+ERR3	#76D7C4	circle	Type: gene<br>FC: 0.84<br>Function: Enolase, a phosphopyruvate hydratase<br>	UP
+GRE3	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Aldose reductase<br>	UP
+TKL2	#76D7C4	circle	Type: gene<br>FC: 2.75<br>Function: Transketolase<br>	UP
+SMA2	#76D7C4	circle	Type: gene<br>FC: 3.39<br>Function: Meiosis-specific prospore membrane protein<br>	UP
+YGR066C	#76D7C4	circle	Type: gene<br>FC: 2.41<br>Function: Recognition component (N-recognin) of the Pro/N-degron pathway<br>	UP
+SOR1	#76D7C4	circle	Type: gene<br>FC: 1.66<br>Function: Sorbitol dehydrogenase<br>	UP
+FBP1	#76D7C4	circle	Type: gene<br>FC: 1.34<br>Function: Fructose-1,6-bisphosphatase<br>	UP
+INH1	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Protein that inhibits ATP hydrolysis by the F1F0-ATP synthase<br>	UP
+YOR289W	#76D7C4	circle	Type: gene<br>FC: 1.78<br>Function: Putative protein of unknown function<br>	UP
+PDC6	#76D7C4	circle	Type: gene<br>FC: 3.23<br>Function: Minor isoform of pyruvate decarboxylase<br>	UP
+TFS1	#76D7C4	circle	Type: gene<br>FC: 2.83<br>Function: Inhibitor of carboxypeptidase Y (Prc1p), and Ras GAP (Ira2p)<br>	UP
+YGR146C-A	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: Putative protein of unknown function<br>	UP
+IRC4	#76D7C4	circle	Type: gene<br>FC: 1.49<br>Function: Protein similar to bacterial secreted DfsB proteins<br>	UP
+YDL186W	#76D7C4	circle	Type: gene<br>FC: 1.24<br>Function: Putative protein of unknown function<br>	UP
+YFL019C	#76D7C4	circle	Type: gene<br>FC: 1.59<br>Function: Putative protein of unknown function<br>	UP
+IDH2	#76D7C4	circle	Type: gene<br>FC: 1.47<br>Function: Subunit of mitochondrial NAD(+)-dependent isocitrate dehydrogenase<br>	UP
+UBI4	#76D7C4	circle	Type: gene<br>FC: 2.36<br>Function: Ubiquitin<br>	UP
+BAG7	#76D7C4	circle	Type: gene<br>FC: 3.98<br>Function: Rho GTPase activating protein (RhoGAP)<br>	UP
+MF(ALPHA)1	#76D7C4	circle	Type: gene<br>FC: 2.37<br>Function: Mating pheromone alpha-factor, made by alpha cells<br>	UP
+UIP4	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: Protein that interacts with Ulp1p<br>	UP
+YLR012C	#76D7C4	circle	Type: gene<br>FC: 1.08<br>Function: Putative protein of unknown function<br>	UP
+YMR196W	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: Putative protein of unknown function<br>	UP
+RRT6	#76D7C4	circle	Type: gene<br>FC: 1.82<br>Function: Integral membrane protein, member of the p24 family<br>	UP
+CRG1	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: S-AdoMet-dependent methyltransferase involved in lipid homeostasis<br>	UP
+VID24	#76D7C4	circle	Type: gene<br>FC: 1.47<br>Function: GID Complex regulatory subunit<br>	UP
+MOH1	#76D7C4	circle	Type: gene<br>FC: 3.45<br>Function: Protein of unknown function, essential for stationary phase survival<br>	UP
+YBL048W	#76D7C4	circle	Type: gene<br>FC: 3.78<br>Function: Putative protein of unknown function<br>	UP
+ZIP2	#76D7C4	circle	Type: gene<br>FC: 1.92<br>Function: Meiosis-specific protein<br>	UP
+HOP2	#76D7C4	circle	Type: gene<br>FC: 1.41<br>Function: Meiosis-specific protein that localizes to chromosomes<br>	UP
+SPO20	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Meiosis-specific subunit of the t-SNARE complex<br>	UP
+NDE2	#76D7C4	circle	Type: gene<br>FC: 2.64<br>Function: Mitochondrial external NADH dehydrogenase<br>	UP
+FMP16	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Protein of unknown function<br>	UP
+DIT2	#76D7C4	circle	Type: gene<br>FC: 1.9<br>Function: N-formyltyrosine oxidase<br>	UP
+RRT12	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Probable subtilisin-family protease<br>	UP
+ECM13	#76D7C4	circle	Type: gene<br>FC: 1.32<br>Function: Non-essential protein of unknown function<br>	UP
+RTC3	#76D7C4	circle	Type: gene<br>FC: 2.6<br>Function: Protein of unknown function involved in RNA metabolism<br>	UP
+MCH2	#76D7C4	circle	Type: gene<br>FC: 2.26<br>Function: Protein with similarity to mammalian monocarboxylate permeases<br>	UP
+OSW2	#76D7C4	circle	Type: gene<br>FC: 2.02<br>Function: Protein of unknown function reputedly involved in spore wall assembly<br>	UP
+CRC1	#76D7C4	circle	Type: gene<br>FC: 2.9<br>Function: Mitochondrial inner membrane carnitine transporter<br>	UP
+YLR053C	#76D7C4	circle	Type: gene<br>FC: 1.15<br>Function: Putative protein of unknown function<br>	UP
+SIP18	#76D7C4	circle	Type: gene<br>FC: 2.12<br>Function: Phospholipid-binding hydrophilin<br>	UP
+HSP104	#76D7C4	circle	Type: gene<br>FC: 2.84<br>Function: Disaggregase<br>	UP
+YJL133C-A	#76D7C4	circle	Type: gene<br>FC: 1.82<br>Function: Putative mitochondrial protein of unknown function<br>	UP
+THI5	#76D7C4	circle	Type: gene<br>FC: 1.85<br>Function: Protein involved in synthesis of the thiamine precursor HMP<br>	UP
+HXT4	#76D7C4	circle	Type: gene<br>FC: 0.89<br>Function: High-affinity glucose transporter<br>	UP
+YPR099C	#76D7C4	circle	Type: gene<br>FC: 1.84<br>Function: Mitochondrial protein of unknown function<br>	UP
+NQM1	#76D7C4	circle	Type: gene<br>FC: 3.45<br>Function: Transaldolase of unknown function<br>	UP
+HCH1	#76D7C4	circle	Type: gene<br>FC: 1.72<br>Function: Heat shock protein regulator<br>	UP
+SRL4	#76D7C4	circle	Type: gene<br>FC: 3.2<br>Function: Protein of unknown function<br>	UP
+POT1	#76D7C4	circle	Type: gene<br>FC: 0.97<br>Function: 3-ketoacyl-CoA thiolase with broad chain length specificity<br>	UP
+SDH6	#76D7C4	circle	Type: gene<br>FC: 2.15<br>Function: Mitochondrial protein involved in assembly of succinate dehydrogenase<br>	UP
+SMA1	#76D7C4	circle	Type: gene<br>FC: 3.2<br>Function: Protein of unknown function involved in prospore membrane assembly<br>	UP
+APE1	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Vacuolar aminopeptidase yscI<br>	UP
+YGR273C	#76D7C4	circle	Type: gene<br>FC: 4.16<br>Function: Putative protein of unknown function<br>	UP
+YKL107W	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: NADH-dependent aldehyde reductase<br>	UP
+MEI4	#76D7C4	circle	Type: gene<br>FC: 1.67<br>Function: Meiosis-specific protein involved in forming DSBs<br>	UP
+BSC4	#76D7C4	circle	Type: gene<br>FC: 2.46<br>Function: Protein of unknown function<br>	UP
+YNL042W-B	#76D7C4	circle	Type: gene<br>FC: 1.01<br>Function: Putative protein of unknown function<br>	UP
+ALD3	#76D7C4	circle	Type: gene<br>FC: 2.75<br>Function: Cytoplasmic aldehyde dehydrogenase<br>	UP
+JEN1	#76D7C4	circle	Type: gene<br>FC: 1.52<br>Function: Monocarboxylate/proton symporter of the plasma membrane<br>	UP
+HXT5	#76D7C4	circle	Type: gene<br>FC: 4.09<br>Function: Hexose transporter with moderate affinity for glucose<br>	UP
+PAI3	#76D7C4	circle	Type: gene<br>FC: 2.56<br>Function: Cytoplasmic proteinase A (Pep4p) inhibitor<br>	UP
+SPR3	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: Sporulation-specific homolog of the CDC3/10/11/12 family of genes<br>	UP
+GPG1	#76D7C4	circle	Type: gene<br>FC: 3.96<br>Function: Proposed gamma subunit of the heterotrimeric G protein<br>	UP
+UGX2	#76D7C4	circle	Type: gene<br>FC: 2.15<br>Function: Protein of unknown function<br>	UP
+YLR149C	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Substrate receptor of the glucose-induced degradation-deficient (GID) <br>	UP
+GOR1	#76D7C4	circle	Type: gene<br>FC: 1.85<br>Function: Glyoxylate reductase<br>	UP
+PHO84	#76D7C4	circle	Type: gene<br>FC: 0.52<br>Function: High-affinity inorganic phosphate (Pi) transporter<br>	UP
+YOR385W	#76D7C4	circle	Type: gene<br>FC: 1.39<br>Function: Putative protein of unknown function<br>	UP
+AIM26	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Protein of unknown function<br>	UP
+YNR064C	#76D7C4	circle	Type: gene<br>FC: 2.25<br>Function: Epoxide hydrolase<br>	UP
+PHO5	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Repressible acid phosphatase<br>	UP
+MSC1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Protein of unknown function<br>	UP
+YNR068C	#76D7C4	circle	Type: gene<br>FC: 1.7<br>Function: Putative protein of unknown function<br>	UP
+SPO75	#76D7C4	circle	Type: gene<br>FC: 2.65<br>Function: Meiosis-specific protein of unknown function<br>	UP
+YHR007C-A	#76D7C4	circle	Type: gene<br>FC: 2.87<br>Function: Putative protein of unknown function<br>	UP
+YHR022C	#76D7C4	circle	Type: gene<br>FC: 2.2<br>Function: Putative protein of unknown function<br>	UP
+PUG1	#76D7C4	circle	Type: gene<br>FC: 1.78<br>Function: Plasma membrane protein involved in protoprophyrin and heme transport<br>	UP
+ABM1	#76D7C4	circle	Type: gene<br>FC: 1.41<br>Function: Protein of unknown function<br>	UP
+HOR7	#76D7C4	circle	Type: gene<br>FC: 2.53<br>Function: Protein of unknown function<br>	UP
+GSM1	#76D7C4	circle	Type: gene<br>FC: 1.66<br>Function: Putative zinc cluster protein of unknown function<br>	UP
+PST1	#76D7C4	circle	Type: gene<br>FC: 1.83<br>Function: Cell wall protein that contains a putative GPI-attachment site<br>	UP
+IDH1	#76D7C4	circle	Type: gene<br>FC: 1.21<br>Function: Subunit of mitochondrial NAD(+)-dependent isocitrate dehydrogenase<br>	UP
+YDR034W-B	#76D7C4	circle	Type: gene<br>FC: 2.16<br>Function: Predicted tail-anchored plasma membrane protein<br>	UP
+YDR182W-A	#76D7C4	circle	Type: gene<br>FC: 0.55<br>Function: Putative protein of unknown function<br>	UP
+SOR2	#76D7C4	circle	Type: gene<br>FC: 1.85<br>Function: Sorbitol dehydrogenase<br>	UP
+YNL034W	#76D7C4	circle	Type: gene<br>FC: 1.71<br>Function: Putative protein of unknown function<br>	UP
+SSA3	#76D7C4	circle	Type: gene<br>FC: 2.53<br>Function: ATPase involved in protein folding and the response to stress<br>	UP
+FDH1	#76D7C4	circle	Type: gene<br>FC: 2.62<br>Function: NAD(+)-dependent formate dehydrogenase<br>	UP
+UBC5	#76D7C4	circle	Type: gene<br>FC: 1.66<br>Function: Ubiquitin-conjugating enzyme<br>	UP
+YER085C	#76D7C4	circle	Type: gene<br>FC: 1.97<br>Function: Putative protein of unknown function<br>	UP
+CSM4	#76D7C4	circle	Type: gene<br>FC: 2.38<br>Function: Protein required for accurate chromosome segregation during meiosis<br>	UP
+YJR128W	#76D7C4	circle	Type: gene<br>FC: 2.01<br>Function: Putative protein of unknown function<br>	UP
+GSC2	#76D7C4	circle	Type: gene<br>FC: 2.12<br>Function: Catalytic subunit of 1,3-beta-glucan synthase<br>	UP
+NCA3	#76D7C4	circle	Type: gene<br>FC: 3.21<br>Function: Protein involved in mitochondrion organization<br>	UP
+SPL2	#76D7C4	circle	Type: gene<br>FC: 0.92<br>Function: Protein with similarity to cyclin-dependent kinase inhibitors<br>	UP
+ARO9	#76D7C4	circle	Type: gene<br>FC: 1.76<br>Function: Aromatic aminotransferase II<br>	UP
+YHR138C	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: Protein of unknown function<br>	UP
+SPS100	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: Protein required for spore wall maturation<br>	UP
+YOL118C	#76D7C4	circle	Type: gene<br>FC: 1.04<br>Function: Putative protein of unknown function<br>	UP
+COX26	#76D7C4	circle	Type: gene<br>FC: 1.69<br>Function: Subunit of cytochrome C oxidase complex<br>	UP
+MPC54	#76D7C4	circle	Type: gene<br>FC: 2.17<br>Function: Component of the meiotic outer plaque<br>	UP
+HSP42	#76D7C4	circle	Type: gene<br>FC: 1.81<br>Function: Small heat shock protein (sHSP) with chaperone activity<br>	UP
+TMA10	#76D7C4	circle	Type: gene<br>FC: 2.23<br>Function: Protein of unknown function that associates with ribosomes<br>	UP
+DCS2	#76D7C4	circle	Type: gene<br>FC: 2.34<br>Function: m(7)GpppX pyrophosphatase regulator<br>	UP
+YML122C	#76D7C4	circle	Type: gene<br>FC: 2.48<br>Function: Putative protein of unknown function<br>	UP
+ECM11	#76D7C4	circle	Type: gene<br>FC: 2.66<br>Function: Meiosis-specific protein<br>	UP
+YNR034W-A	#76D7C4	circle	Type: gene<br>FC: 3.1<br>Function: Protein of unknown function<br>	UP
+PDH1	#76D7C4	circle	Type: gene<br>FC: 1.95<br>Function: Putative 2-methylcitrate dehydratase<br>	UP
+HSP26	#76D7C4	circle	Type: gene<br>FC: 5.82<br>Function: Small heat shock protein (sHSP) with chaperone activity<br>	UP
+REC8	#76D7C4	circle	Type: gene<br>FC: 2.81<br>Function: Meiosis-specific component of the sister chromatid cohesion complex<br>	UP
+ECM8	#76D7C4	circle	Type: gene<br>FC: 2.72<br>Function: Non-essential protein of unknown function<br>	UP
+PBI2	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Cytosolic inhibitor of vacuolar proteinase B (PRB1)<br>	UP
+GSP2	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: GTP binding protein (mammalian Ranp homolog)<br>	UP
+TSA2	#76D7C4	circle	Type: gene<br>FC: 2.14<br>Function: Stress inducible cytoplasmic thioredoxin peroxidase<br>	UP
+YKL151C	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Widely-conserved NADHX dehydratase<br>	UP
+YDL114W	#76D7C4	circle	Type: gene<br>FC: 2.59<br>Function: Putative short-chain dehydrogenase/reductase<br>	UP
+GPP2	#76D7C4	circle	Type: gene<br>FC: 2.45<br>Function: DL-glycerol-3-phosphate phosphatase involved in glycerol biosynthesis<br>	UP
+YHR054C	#76D7C4	circle	Type: gene<br>FC: 1.37<br>Function: Putative protein of unknown function<br>	UP
+GAS4	#76D7C4	circle	Type: gene<br>FC: 2.28<br>Function: 1,3-beta-glucanosyltransferase<br>	UP
+YOL131W	#76D7C4	circle	Type: gene<br>FC: 4.39<br>Function: Putative protein of unknown function<br>	UP
+YGP1	#76D7C4	circle	Type: gene<br>FC: 3.09<br>Function: Cell wall-related secretory glycoprotein<br>	UP
+YLR194C	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: GPI-anchored protein involved in cell wall remodeling<br>	UP
+SPO77	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: Meiosis-specific protein of unknown function<br>	UP
+YMR206W	#76D7C4	circle	Type: gene<br>FC: 1.32<br>Function: Putative protein of unknown function<br>	UP
+CIN2	#BB8FCE	circle	Type: gene<br>FC: -1.64<br>Function: GTPase-activating protein (GAP) for Cin4p<br>	DOWN
+ASC1	#BB8FCE	circle	Type: gene<br>FC: -1.4<br>Function: G-protein beta subunit and guanine dissociation inhibitor for Gpa2p<br>	DOWN
+HO	#BB8FCE	circle	Type: gene<br>FC: -2.21<br>Function: Site-specific endonuclease<br>	DOWN
+TIR1	#BB8FCE	circle	Type: gene<br>FC: -0.25<br>Function: Cell wall mannoprotein<br>	DOWN
+YBR032W	#BB8FCE	circle	Type: gene<br>FC: -0.88<br>Function: Putative protein of unknown function<br>	DOWN
+FIG1	#BB8FCE	circle	Type: gene<br>FC: -0.48<br>Function: Integral membrane protein required for efficient mating<br>	DOWN
+AGA1	#BB8FCE	circle	Type: gene<br>FC: -2.19<br>Function: Anchorage subunit of a-agglutinin of a-cells<br>	DOWN
+YAR075W	#BB8FCE	circle	Type: gene<br>FC: -1.17<br>Function: Non-functional protein with homology IMP dehydrogenase<br>	DOWN
+PAU13	#BB8FCE	circle	Type: gene<br>FC: -1.84<br>Function: Protein of unknown function<br>	DOWN
+PAU18	#BB8FCE	circle	Type: gene<br>FC: -0.77<br>Function: Protein of unknown function<br>	DOWN
+YHB1	#BB8FCE	circle	Type: gene<br>FC: -1.64<br>Function: Nitric oxide oxidoreductase<br>	DOWN
+AZR1	#BB8FCE	circle	Type: gene<br>FC: -4.34<br>Function: Plasma membrane transporter of the major facilitator superfamily<br>	DOWN
+LEU1	#BB8FCE	circle	Type: gene<br>FC: -2.45<br>Function: Isopropylmalate isomerase<br>	DOWN
+DAN1	#BB8FCE	circle	Type: gene<br>FC: -1.2<br>Function: Cell wall mannoprotein<br>	DOWN
+STE2	#BB8FCE	circle	Type: gene<br>FC: -1.35<br>Function: Receptor for alpha-factor pheromone<br>	DOWN
+RPL9A	#BB8FCE	circle	Type: gene<br>FC: -1.65<br>Function: Ribosomal 60S subunit protein L9A<br>	DOWN
+PRM1	#BB8FCE	circle	Type: gene<br>FC: -1.72<br>Function: Pheromone-regulated multispanning membrane protein<br>	DOWN
+MET6	#BB8FCE	circle	Type: gene<br>FC: -0.93<br>Function: Cobalamin-independent methionine synthase<br>	DOWN
+MDH2	#BB8FCE	circle	Type: gene<br>FC: -1.65<br>Function: Cytoplasmic malate dehydrogenase<br>	DOWN
+YPL205C	#BB8FCE	circle	Type: gene<br>FC: -0.96<br>Function: Hypothetical protein<br>	DOWN
+COS12	#BB8FCE	circle	Type: gene<br>FC: -2.63<br>Function: Endosomal protein involved in turnover of plasma membrane proteins<br>	DOWN
+ILV3	#BB8FCE	circle	Type: gene<br>FC: -1.58<br>Function: Dihydroxyacid dehydratase<br>	DOWN
+PAU6	#BB8FCE	circle	Type: gene<br>FC: -0.72<br>Function: Member of the seripauperin multigene family<br>	DOWN
+alanine	#76D7C4	square	Type: metabolite<br>FC: 1.54	UP
+arginine	#76D7C4	square	Type: metabolite<br>FC: 0.89	UP
+aspartic_acid	#76D7C4	square	Type: metabolite<br>FC: 1.06	UP
+atp	#76D7C4	square	Type: metabolite<br>FC: 2.19	UP
+citrate	#76D7C4	square	Type: metabolite<br>FC: 1.69	UP
+ethanol	#76D7C4	square	Type: metabolite<br>FC: 1.05	UP
+fructose_1_6_biphosphate	#76D7C4	square	Type: metabolite<br>FC: 0.78	UP
+galactitol	#76D7C4	square	Type: metabolite<br>FC: 1.14	UP
+glutamic_acid	#76D7C4	square	Type: metabolite<br>FC: 1.21	UP
+glutamine	#76D7C4	square	Type: metabolite<br>FC: 1.5	UP
+glutathione	#76D7C4	square	Type: metabolite<br>FC: 1.37	UP
+glycine	#76D7C4	square	Type: metabolite<br>FC: 0.89	UP
+gmp	#76D7C4	square	Type: metabolite<br>FC: 0.86	UP
+glycerophosphocholine	#76D7C4	square	Type: metabolite<br>FC: 1.93	UP
+histidine	#76D7C4	square	Type: metabolite<br>FC: 1.05	UP
+isoleucine	#76D7C4	square	Type: metabolite<br>FC: 0.72	UP
+lactate	#76D7C4	square	Type: metabolite<br>FC: 1.14	UP
+leucine	#76D7C4	square	Type: metabolite<br>FC: 1.13	UP
+myo_inositol	#76D7C4	square	Type: metabolite<br>FC: 0.96	UP
+phenylalanine	#76D7C4	square	Type: metabolite<br>FC: 1.15	UP
+serine	#76D7C4	square	Type: metabolite<br>FC: 6.77	UP
+thiamine_derivate_1	#76D7C4	square	Type: metabolite<br>FC: 1.15	UP
+thiamine_derivate_2	#76D7C4	square	Type: metabolite<br>FC: 0.99	UP
+tryptophan	#76D7C4	square	Type: metabolite<br>FC: 1.1	UP
+tyrosine	#76D7C4	square	Type: metabolite<br>FC: 1.32	UP
+udp_derivative_2	#76D7C4	square	Type: metabolite<br>FC: 0.91	UP
+valine	#76D7C4	square	Type: metabolite<br>FC: 0.91	UP
+beta_d_glucuronic_acid	#76D7C4	square	Type: metabolite<br>FC: 1.2	UP
+trehalose	#BB8FCE	square	Type: metabolite<br>FC: -22.67	DOWN
+udp_derivative_1	#BB8FCE	square	Type: metabolite<br>FC: -1.66	DOWN
+GAL4	#76D7C4	triangle	Type: tf<br>FC: 1.04<br>Function: DNA-binding transcription factor required for activating GAL genes<br>	UP
+PRR2	#76D7C4	triangle	Type: tf<br>FC: 1.2<br>Function: Serine/threonine protein kinase<br>	UP
+HMS1	#76D7C4	triangle	Type: tf<br>FC: 2.17<br>Function: bHLH protein with similarity to myc-family transcription factors<br>	UP
+RLM1	#76D7C4	triangle	Type: tf<br>FC: 1.24<br>Function: MADS-box transcription factor<br>	UP
+YPL088W	#76D7C4	triangle	Type: tf<br>FC: 1.76<br>Function: Putative aryl alcohol dehydrogenase<br>	UP
+ACA1	#76D7C4	triangle	Type: tf<br>FC: 1.36<br>Function: ATF/CREB family basic leucine zipper (bZIP) transcription factor<br>	UP
+YHR177W	#76D7C4	triangle	Type: tf<br>FC: 0.63<br>Function: Putative transcription factor containing a WOPR domain<br>	UP
+TOS8	#76D7C4	triangle	Type: tf<br>FC: 1.05<br>Function: Homeodomain-containing protein and putative transcription factor<br>	UP
+YPR015C	#76D7C4	triangle	Type: tf<br>FC: 0.94<br>Function: Putative zinc finger transcription factor<br>	UP
+ADR1	#76D7C4	triangle	Type: tf<br>FC: 1.34<br>Function: Carbon source-responsive zinc-finger transcription factor<br>	UP
+ZPS1	#76D7C4	triangle	Type: tf<br>FC: 0.95<br>Function: Putative GPI-anchored protein<br>	UP
+EDS1	#76D7C4	triangle	Type: tf<br>FC: 2.12<br>Function: Putative zinc cluster protein, predicted to be a transcription factor<br>	UP
+USV1	#76D7C4	triangle	Type: tf<br>FC: 1.42<br>Function: Putative transcription factor containing a C2H2 zinc finger<br>	UP
+LPL1	#76D7C4	triangle	Type: tf<br>FC: 0.92<br>Function: Phospholipase<br>	UP
+MFG1	#76D7C4	triangle	Type: tf<br>FC: 0.68<br>Function: Regulator of filamentous growth<br>	UP
+HYR1	#76D7C4	triangle	Type: tf<br>FC: 0.74<br>Function: Glutathione peroxidase<br>	UP
+RSF1	#76D7C4	triangle	Type: tf<br>FC: 0.77<br>Function: Protein required for respiratory growth<br>	UP
+NPL4	#76D7C4	triangle	Type: tf<br>FC: 0.74<br>Function: Substrate-recruiting cofactor of the Cdc48p-Npl4p-Ufd1p segregase<br>	UP
+TAF13	#76D7C4	triangle	Type: tf<br>FC: 0.72<br>Function: TFIID subunit (19 kDa)<br>	UP
+IME1	#76D7C4	triangle	Type: tf<br>FC: 0.71<br>Function: Master regulator of meiosis that is active only during meiotic events<br>	UP
+MAL33	#76D7C4	triangle	Type: tf<br>FC: 0.67<br>Function: MAL-activator protein<br>	UP
+SMP1	#76D7C4	triangle	Type: tf<br>FC: 1.39<br>Function: MADS-box transcription factor involved in osmotic stress response<br>	UP
+RRN7	#76D7C4	triangle	Type: tf<br>FC: 0.65<br>Function: Component of the core factor (CF) rDNA transcription factor complex<br>	UP
+POX1	#76D7C4	triangle	Type: tf<br>FC: 2.11<br>Function: Fatty-acyl coenzyme A oxidase<br>	UP
+CIT2	#76D7C4	triangle	Type: tf<br>FC: 1.47<br>Function: Citrate synthase, peroxisomal isozyme involved in glyoxylate cycle<br>	UP
+CAT8	#76D7C4	triangle	Type: tf<br>FC: 1.87<br>Function: Zinc cluster transcriptional activator<br>	UP
+STP4	#76D7C4	triangle	Type: tf<br>FC: 0.96<br>Function: Protein containing a Kruppel-type zinc-finger domain<br>	UP
+YAP6	#76D7C4	triangle	Type: tf<br>FC: 1.16<br>Function: Basic leucine zipper (bZIP) transcription factor<br>	UP
+MET32	#76D7C4	triangle	Type: tf<br>FC: 1.0<br>Function: Zinc-finger DNA-binding transcription factor<br>	UP
+MAL13	#76D7C4	triangle	Type: tf<br>FC: 0.9<br>Function: MAL-activator protein<br>	UP
+CUP2	#76D7C4	triangle	Type: tf<br>FC: 0.93<br>Function: Copper-binding transcription factor<br>	UP
+HXT9	#76D7C4	triangle	Type: tf<br>FC: 2.05<br>Function: Putative hexose transporter that is nearly identical to Hxt11p<br>	UP
+PPR1	#76D7C4	triangle	Type: tf<br>FC: 0.77<br>Function: Zinc finger transcription factor<br>	UP
+MIG1	#76D7C4	triangle	Type: tf<br>FC: 0.69<br>Function: Transcription factor involved in glucose repression<br>	UP
+FKH2	#76D7C4	triangle	Type: tf<br>FC: 0.51<br>Function: Forkhead family transcription factor<br>	UP
+EMI1	#76D7C4	triangle	Type: tf<br>FC: 0.82<br>Function: Non-essential protein of unknown function<br>	UP
+EMI2	#76D7C4	triangle	Type: tf<br>FC: 1.0<br>Function: Hexokinase expressed during growth with low glucose levels<br>	UP
+UFD1	#76D7C4	triangle	Type: tf<br>FC: 0.85<br>Function: Substrate-recruiting cofactor of the Cdc48p-Npl4p-Ufd1p segregase<br>	UP
+RGM1	#76D7C4	triangle	Type: tf<br>FC: 1.13<br>Function: Putative zinc finger DNA binding transcription factor<br>	UP
+HAP4	#76D7C4	triangle	Type: tf<br>FC: 0.75<br>Function: Transcription factor<br>	UP
+YFL052W	#76D7C4	triangle	Type: tf<br>FC: 1.34<br>Function: Zinc cluster transcription factor that regulates respiratory growth<br>	UP
+PDR1	#76D7C4	triangle	Type: tf<br>FC: 0.77<br>Function: Transcription factor that regulates the pleiotropic drug response<br>	UP
+RGT1	#76D7C4	triangle	Type: tf<br>FC: 0.63<br>Function: Glucose-responsive transcription factor<br>	UP
+SRL3	#76D7C4	triangle	Type: tf<br>FC: 0.9<br>Function: Repressor of transcription at Start<br>	UP
+YOR387C	#76D7C4	triangle	Type: tf<br>FC: 1.43<br>Function: Putative protein of unknown function<br>	UP
+YPR127W	#76D7C4	triangle	Type: tf<br>FC: 1.31<br>Function: Putative pyridoxine 4-dehydrogenase<br>	UP
+YAP1	#76D7C4	triangle	Type: tf<br>FC: 0.71<br>Function: Basic leucine zipper (bZIP) transcription factor<br>	UP
+CRZ1	#76D7C4	triangle	Type: tf<br>FC: 0.67<br>Function: Transcription factor, activates transcription of stress response genes<br>	UP
+GAC1	#76D7C4	triangle	Type: tf<br>FC: 3.22<br>Function: Regulatory subunit for Glc7p type-1 protein phosphatase (PP1)<br>	UP
+NDT80	#76D7C4	triangle	Type: tf<br>FC: 1.54<br>Function: Meiosis-specific transcription factor<br>	UP
+YLL056C	#BB8FCE	triangle	Type: tf<br>FC: -0.75<br>Function: NADH-dependent aldehyde reductase<br>	DOWN
+YGR035C	#BB8FCE	triangle	Type: tf<br>FC: -1.83<br>Function: Putative protein of unknown function, potential Cdc28p substrate<br>	DOWN
+SNG1	#BB8FCE	triangle	Type: tf<br>FC: -1.34<br>Function: Protein involved in resistance to nitrosoguanidine and 6-azauracil<br>	DOWN
+HMS2	#BB8FCE	triangle	Type: tf<br>FC: -0.63<br>Function: Protein with similarity to heat shock transcription factors<br>	DOWN
+YLR346C	#BB8FCE	triangle	Type: tf<br>FC: -1.17<br>Function: Protein of unknown function found in mitochondria<br>	DOWN
+label	color	shape	title	exp
+HSP82	#76D7C4	circle	Type: gene<br>FC: 3.15<br>Function: Hsp90 chaperone<br>	UP
+CPR6	#76D7C4	circle	Type: gene<br>FC: 2.19<br>Function: Peptidyl-prolyl cis-trans isomerase (cyclophilin)<br>	UP
+YER135C	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Putative protein of unknown function<br>	UP
+SPS22	#76D7C4	circle	Type: gene<br>FC: 1.91<br>Function: Protein of unknown function<br>	UP
+ARG3	#76D7C4	circle	Type: gene<br>FC: 3.32<br>Function: Ornithine carbamoyltransferase<br>	UP
+SIP4	#76D7C4	circle	Type: gene<br>FC: 2.92<br>Function: C6 zinc cluster transcriptional activator<br>	UP
+ISF1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Serine-rich, hydrophilic protein<br>	UP
+SEO1	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Putative permease<br>	UP
+YEL073C	#76D7C4	circle	Type: gene<br>FC: 1.61<br>Function: Putative protein of unknown function<br>	UP
+YAL064W	#76D7C4	circle	Type: gene<br>FC: 1.24<br>Function: Protein of unknown function<br>	UP
+GLK1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Glucokinase<br>	UP
+PET10	#76D7C4	circle	Type: gene<br>FC: 2.22<br>Function: Perilipin, involved in formation and stability of lipid droplets<br>	UP
+GDH3	#76D7C4	circle	Type: gene<br>FC: 1.61<br>Function: NADP(+)-dependent glutamate dehydrogenase<br>	UP
+YCL042W	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Putative protein of unknown function<br>	UP
+YRO2	#76D7C4	circle	Type: gene<br>FC: 3.33<br>Function: Protein with a putative role in response to acid stress<br>	UP
+SHH3	#76D7C4	circle	Type: gene<br>FC: 3.19<br>Function: Putative mitochondrial inner membrane protein of unknown function<br>	UP
+TDA8	#76D7C4	circle	Type: gene<br>FC: 2.25<br>Function: Putative protein of unknown function<br>	UP
+REG2	#76D7C4	circle	Type: gene<br>FC: 1.54<br>Function: Regulatory subunit of the Glc7p type-1 protein phosphatase<br>	UP
+YER145C-A	#76D7C4	circle	Type: gene<br>FC: 3.29<br>Function: Putative protein of unknown function<br>	UP
+HBN1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Protein of unknown function<br>	UP
+FRM2	#76D7C4	circle	Type: gene<br>FC: 1.88<br>Function: Type II nitroreductase, using NADH as reductant<br>	UP
+GCV1	#76D7C4	circle	Type: gene<br>FC: 0.88<br>Function: T subunit of the mitochondrial glycine decarboxylase complex<br>	UP
+YOR338W	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Putative protein of unknown function<br>	UP
+RTA1	#76D7C4	circle	Type: gene<br>FC: 1.43<br>Function: Protein involved in 7-aminocholesterol resistance<br>	UP
+YPR027C	#76D7C4	circle	Type: gene<br>FC: 0.72<br>Function: Putative protein of unknown function<br>	UP
+MAG1	#76D7C4	circle	Type: gene<br>FC: 1.42<br>Function: 3-methyl-adenine DNA glycosylase<br>	UP
+STE3	#76D7C4	circle	Type: gene<br>FC: 2.02<br>Function: Receptor for a factor pheromone<br>	UP
+YGL081W	#76D7C4	circle	Type: gene<br>FC: 1.59<br>Function: Putative protein of unknown function<br>	UP
+KDX1	#76D7C4	circle	Type: gene<br>FC: 1.82<br>Function: Protein kinase<br>	UP
+PIR3	#76D7C4	circle	Type: gene<br>FC: 2.69<br>Function: O-glycosylated covalently-bound cell wall protein<br>	UP
+SNO1	#76D7C4	circle	Type: gene<br>FC: 2.01<br>Function: Protein of unconfirmed function<br>	UP
+GPH1	#76D7C4	circle	Type: gene<br>FC: 3.18<br>Function: Glycogen phosphorylase required for the mobilization of glycogen<br>	UP
+YDR018C	#76D7C4	circle	Type: gene<br>FC: 2.13<br>Function: Probable membrane protein with three predicted transmembrane domains<br>	UP
+YMR090W	#76D7C4	circle	Type: gene<br>FC: 1.88<br>Function: Putative protein of unknown function<br>	UP
+HXT14	#76D7C4	circle	Type: gene<br>FC: 3.19<br>Function: Protein with similarity to hexose transporter family members<br>	UP
+PHM8	#76D7C4	circle	Type: gene<br>FC: 3.87<br>Function: Lysophosphatidic acid (LPA) phosphatase, nucleotidase<br>	UP
+YBR285W	#76D7C4	circle	Type: gene<br>FC: 2.23<br>Function: Putative protein of unknown function<br>	UP
+PRB1	#76D7C4	circle	Type: gene<br>FC: 1.62<br>Function: Vacuolar proteinase B (yscB) with H3 N-terminal endopeptidase activity<br>	UP
+YBR284W	#76D7C4	circle	Type: gene<br>FC: 1.76<br>Function: Putative metallo-dependent hydrolase superfamily protein<br>	UP
+PGM2	#76D7C4	circle	Type: gene<br>FC: 2.45<br>Function: Phosphoglucomutase<br>	UP
+HXT13	#76D7C4	circle	Type: gene<br>FC: 1.7<br>Function: Putative transmembrane polyol transporter<br>	UP
+SPS19	#76D7C4	circle	Type: gene<br>FC: 2.01<br>Function: Peroxisomal 2,4-dienoyl-CoA reductase<br>	UP
+SPI1	#76D7C4	circle	Type: gene<br>FC: 2.59<br>Function: GPI-anchored cell wall protein involved in weak acid resistance<br>	UP
+YLR312C	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Autophagy receptor with a role in degradation of the ER and nucleus<br>	UP
+SUE1	#76D7C4	circle	Type: gene<br>FC: 2.99<br>Function: Protein required for degradation of unstable forms of cytochrome c<br>	UP
+KTR2	#76D7C4	circle	Type: gene<br>FC: 1.69<br>Function: Mannosyltransferase involved in N-linked protein glycosylation<br>	UP
+STF1	#76D7C4	circle	Type: gene<br>FC: 2.31<br>Function: Protein involved in regulation of the mitochondrial F1F0-ATP synthase<br>	UP
+SPR28	#76D7C4	circle	Type: gene<br>FC: 4.17<br>Function: Sporulation-specific homolog of the CDC3/10/11/12 family of genes<br>	UP
+AHA1	#76D7C4	circle	Type: gene<br>FC: 2.02<br>Function: Co-chaperone that binds Hsp82p and activates its ATPase activity<br>	UP
+HED1	#76D7C4	circle	Type: gene<br>FC: 2.77<br>Function: Meiosis-specific protein<br>	UP
+HBT1	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Shmoo tip protein, substrate of Hub1p ubiquitin-like protein<br>	UP
+FMP45	#76D7C4	circle	Type: gene<br>FC: 2.14<br>Function: Integral membrane protein localized to mitochondria<br>	UP
+SPO23	#76D7C4	circle	Type: gene<br>FC: 2.07<br>Function: Protein of unknown function<br>	UP
+YCL001W-A	#76D7C4	circle	Type: gene<br>FC: 1.47<br>Function: Putative protein of unknown function<br>	UP
+PHO92	#76D7C4	circle	Type: gene<br>FC: 3.22<br>Function: Posttranscriptional regulator of phosphate and glucose metabolism<br>	UP
+YEL059W	#76D7C4	circle	Type: gene<br>FC: 3.24<br>Function: Putative protein of unknown function<br>	UP
+HXT11	#76D7C4	circle	Type: gene<br>FC: 2.13<br>Function: Hexose transporter<br>	UP
+CRF1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Transcriptional corepressor<br>	UP
+LDS2	#76D7C4	circle	Type: gene<br>FC: 2.92<br>Function: Protein Involved in spore wall assembly<br>	UP
+YMR244W	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Putative protein of unknown function<br>	UP
+GRE1	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Hydrophilin essential in desiccation-rehydration process<br>	UP
+PEX18	#76D7C4	circle	Type: gene<br>FC: 3.03<br>Function: Peroxin<br>	UP
+RTC2	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Putative vacuolar membrane transporter for cationic amino acids<br>	UP
+YOL013W-A	#76D7C4	circle	Type: gene<br>FC: 2.03<br>Function: Putative protein of unknown function<br>	UP
+YSW1	#76D7C4	circle	Type: gene<br>FC: 1.31<br>Function: Protein required for normal prospore membrane formation<br>	UP
+TDH1	#76D7C4	circle	Type: gene<br>FC: 2.78<br>Function: Glyceraldehyde-3-phosphate dehydrogenase (GAPDH), isozyme 1<br>	UP
+GYP7	#76D7C4	circle	Type: gene<br>FC: 1.29<br>Function: GTPase-activating protein for yeast Rab family members<br>	UP
+PUN1	#76D7C4	circle	Type: gene<br>FC: 1.14<br>Function: Plasma membrane protein with a role in cell wall integrity<br>	UP
+MEI5	#76D7C4	circle	Type: gene<br>FC: 4.61<br>Function: Meiosis-specific protein involved in meiotic recombination<br>	UP
+MLS1	#76D7C4	circle	Type: gene<br>FC: 2.06<br>Function: Malate synthase, enzyme of the glyoxylate cycle<br>	UP
+MIP6	#76D7C4	circle	Type: gene<br>FC: 1.46<br>Function: Putative RNA-binding protein<br>	UP
+YIL014C-A	#76D7C4	circle	Type: gene<br>FC: 1.7<br>Function: Putative protein of unknown function<br>	UP
+SPO13	#76D7C4	circle	Type: gene<br>FC: 1.71<br>Function: Meiotic regulator<br>	UP
+YOL162W	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Putative protein of unknown function<br>	UP
+YOL163W	#76D7C4	circle	Type: gene<br>FC: 1.46<br>Function: Putative protein of unknown function<br>	UP
+YOL160W	#76D7C4	circle	Type: gene<br>FC: 1.44<br>Function: Putative protein of unknown function<br>	UP
+YOR381W-A	#76D7C4	circle	Type: gene<br>FC: 0.9<br>Function: Putative protein of unknown function<br>	UP
+FMP33	#76D7C4	circle	Type: gene<br>FC: 2.76<br>Function: Putative protein of unknown function<br>	UP
+THI12	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Protein involved in synthesis of the thiamine precursor HMP<br>	UP
+SAE3	#76D7C4	circle	Type: gene<br>FC: 3.86<br>Function: Meiosis-specific protein involved in meiotic recombination<br>	UP
+CDA1	#76D7C4	circle	Type: gene<br>FC: 2.78<br>Function: Chitin deacetylase<br>	UP
+ARG1	#76D7C4	circle	Type: gene<br>FC: 2.46<br>Function: Arginosuccinate synthetase<br>	UP
+PAU2	#76D7C4	circle	Type: gene<br>FC: 1.87<br>Function: Member of the seripauperin multigene family<br>	UP
+TSL1	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Large subunit of trehalose 6-phosphate synthase/phosphatase complex<br>	UP
+YJL160C	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Putative protein of unknown function<br>	UP
+GPX1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Phospholipid hydroperoxide glutathione peroxidase<br>	UP
+DMC1	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Meiosis-specific recombinase required for double-strand break repair<br>	UP
+SPO19	#76D7C4	circle	Type: gene<br>FC: 1.78<br>Function: Meiosis-specific prospore protein<br>	UP
+YBR085C-A	#76D7C4	circle	Type: gene<br>FC: 1.91<br>Function: Protein of unknown function<br>	UP
+PNC1	#76D7C4	circle	Type: gene<br>FC: 2.14<br>Function: Nicotinamidase that converts nicotinamide to nicotinic acid<br>	UP
+YBR056W-A	#76D7C4	circle	Type: gene<br>FC: 1.39<br>Function: Putative membrane protein upregulated in toxic manganese levels<br>	UP
+RRT5	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Putative protein of unknown function<br>	UP
+YET2	#76D7C4	circle	Type: gene<br>FC: 1.69<br>Function: Protein of unknown function that may interact with ribosomes<br>	UP
+YJL045W	#76D7C4	circle	Type: gene<br>FC: 3.39<br>Function: Minor succinate dehydrogenase isozyme<br>	UP
+LEE1	#76D7C4	circle	Type: gene<br>FC: 2.94<br>Function: Zinc-finger protein of unknown function<br>	UP
+YJL043W	#76D7C4	circle	Type: gene<br>FC: 1.3<br>Function: Putative protein of unknown function<br>	UP
+SSE2	#76D7C4	circle	Type: gene<br>FC: 2.07<br>Function: Member of Hsp110 subclass of the heat shock protein 70 (HSP70) family<br>	UP
+YPS6	#76D7C4	circle	Type: gene<br>FC: 2.06<br>Function: Putative GPI-anchored aspartic protease<br>	UP
+GND2	#76D7C4	circle	Type: gene<br>FC: 3.1<br>Function: 6-phosphogluconate dehydrogenase (decarboxylating)<br>	UP
+ENO1	#76D7C4	circle	Type: gene<br>FC: 1.58<br>Function: Enolase I, a phosphopyruvate hydratase<br>	UP
+YER175W-A	#76D7C4	circle	Type: gene<br>FC: 1.79<br>Function: Putative protein of unknown function<br>	UP
+CYC7	#76D7C4	circle	Type: gene<br>FC: 2.59<br>Function: Cytochrome c isoform 2, expressed under hypoxic conditions<br>	UP
+PES4	#76D7C4	circle	Type: gene<br>FC: 3.2<br>Function: Poly(A) binding protein, suppressor of DNA polymerase epsilon mutation<br>	UP
+UTR5	#76D7C4	circle	Type: gene<br>FC: 3.49<br>Function: Protein of unknown function<br>	UP
+IME4	#76D7C4	circle	Type: gene<br>FC: 1.19<br>Function: mRNA N6-adenosine methyltransferase<br>	UP
+YNL277W-A	#76D7C4	circle	Type: gene<br>FC: 1.9<br>Function: Putative protein of unknown function<br>	UP
+YKR015C	#76D7C4	circle	Type: gene<br>FC: 2.26<br>Function: Putative protein of unknown function<br>	UP
+BOP2	#76D7C4	circle	Type: gene<br>FC: 2.21<br>Function: Protein of unknown function<br>	UP
+YKR011C	#76D7C4	circle	Type: gene<br>FC: 0.99<br>Function: Protein of unknown function<br>	UP
+MAM1	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Monopolin<br>	UP
+DIA3	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Protein of unknown function<br>	UP
+SSA4	#76D7C4	circle	Type: gene<br>FC: 4.77<br>Function: Heat shock protein that is highly induced upon stress<br>	UP
+DAL1	#76D7C4	circle	Type: gene<br>FC: 2.88<br>Function: Allantoinase<br>	UP
+DAL4	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Allantoin permease<br>	UP
+PHM7	#76D7C4	circle	Type: gene<br>FC: 1.84<br>Function: Protein of unknown function<br>	UP
+YJL047C-A	#76D7C4	circle	Type: gene<br>FC: 1.37<br>Function: Putative protein of unknown function<br>	UP
+YPR145C-A	#76D7C4	circle	Type: gene<br>FC: 1.45<br>Function: Putative protein of unknown function<br>	UP
+MTH1	#76D7C4	circle	Type: gene<br>FC: 1.32<br>Function: Negative regulator of the glucose-sensing signal transduction pathway<br>	UP
+IRC18	#76D7C4	circle	Type: gene<br>FC: 3.03<br>Function: Protein involved in outer spore wall assembly<br>	UP
+LOH1	#76D7C4	circle	Type: gene<br>FC: 2.96<br>Function: Protein involved in outer spore wall assembly<br>	UP
+SOL4	#76D7C4	circle	Type: gene<br>FC: 3.94<br>Function: 6-phosphogluconolactonase<br>	UP
+GPM2	#76D7C4	circle	Type: gene<br>FC: 2.98<br>Function: Nonfunctional homolog of Gpm1p phosphoglycerate mutase<br>	UP
+ARO10	#76D7C4	circle	Type: gene<br>FC: 1.92<br>Function: Phenylpyruvate decarboxylase<br>	UP
+Q0255	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: Maturase-like protein<br>	UP
+YAL063C-A	#76D7C4	circle	Type: gene<br>FC: 2.06<br>Function: Putative protein of unknown function<br>	UP
+SSA1	#76D7C4	circle	Type: gene<br>FC: 2.08<br>Function: ATPase involved in protein folding and NLS-directed nuclear transport<br>	UP
+SFC1	#76D7C4	circle	Type: gene<br>FC: 2.64<br>Function: Mitochondrial succinate-fumarate transporter<br>	UP
+YJR096W	#76D7C4	circle	Type: gene<br>FC: 1.67<br>Function: Xylose and arabinose reductase<br>	UP
+YOR365C	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Putative protein involved in sphingolipid biosynthesis<br>	UP
+GAD1	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Glutamate decarboxylase<br>	UP
+SUL1	#76D7C4	circle	Type: gene<br>FC: 1.72<br>Function: High affinity sulfate permease of the SulP anion transporter family<br>	UP
+HXK1	#76D7C4	circle	Type: gene<br>FC: 2.82<br>Function: Hexokinase isoenzyme 1<br>	UP
+PHO89	#76D7C4	circle	Type: gene<br>FC: 2.52<br>Function: Plasma membrane Na+/Pi cotransporter<br>	UP
+YHL012W	#76D7C4	circle	Type: gene<br>FC: 1.96<br>Function: Putative UTP glucose-1-phosphate uridylyltransferase<br>	UP
+HXT10	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Hexose transporter<br>	UP
+YPS3	#76D7C4	circle	Type: gene<br>FC: 1.62<br>Function: Aspartic protease<br>	UP
+OPT2	#76D7C4	circle	Type: gene<br>FC: 2.03<br>Function: Oligopeptide transporter<br>	UP
+GAT4	#76D7C4	circle	Type: gene<br>FC: 1.98<br>Function: Protein containing GATA family zinc finger motifs<br>	UP
+YPR195C	#76D7C4	circle	Type: gene<br>FC: 2.28<br>Function: Putative protein of unknown function<br>	UP
+HSP12	#76D7C4	circle	Type: gene<br>FC: 7.14<br>Function: Plasma membrane protein involved in maintaining membrane organization<br>	UP
+HSP10	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Mitochondrial matrix co-chaperonin<br>	UP
+YFL012W	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Putative protein of unknown function<br>	UP
+PCH2	#76D7C4	circle	Type: gene<br>FC: 3.4<br>Function: Hexameric ring ATPase that remodels chromosome axis protein Hop1p<br>	UP
+REC114	#76D7C4	circle	Type: gene<br>FC: 1.74<br>Function: Protein involved in early stages of meiotic recombination<br>	UP
+STI1	#76D7C4	circle	Type: gene<br>FC: 1.63<br>Function: Evolutionarily-conserved Hsp90 cochaperone<br>	UP
+SPG1	#76D7C4	circle	Type: gene<br>FC: 1.45<br>Function: Protein required for high temperature survival during stationary phase<br>	UP
+YPT53	#76D7C4	circle	Type: gene<br>FC: 2.2<br>Function: Stress-induced Rab family GTPase<br>	UP
+YCL048W-A	#76D7C4	circle	Type: gene<br>FC: 4.24<br>Function: Putative protein of unknown function<br>	UP
+YER121W	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Putative protein of unknown function<br>	UP
+SPO74	#76D7C4	circle	Type: gene<br>FC: 2.47<br>Function: Component of the meiotic outer plaque of the spindle pole body<br>	UP
+MEK1	#76D7C4	circle	Type: gene<br>FC: 2.78<br>Function: Meiosis-specific serine/threonine protein kinase<br>	UP
+YCR007C	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Putative integral membrane protein<br>	UP
+DAL80	#76D7C4	circle	Type: gene<br>FC: 2.84<br>Function: Negative regulator of genes in multiple nitrogen degradation pathways<br>	UP
+SET6	#76D7C4	circle	Type: gene<br>FC: 1.49<br>Function: SET domain protein of unknown function<br>	UP
+RCR1	#76D7C4	circle	Type: gene<br>FC: 1.37<br>Function: Plasma membrane (PM) ubiquitin ligase-substrate adaptor<br>	UP
+RIM4	#76D7C4	circle	Type: gene<br>FC: 2.34<br>Function: Putative RNA-binding protein<br>	UP
+YPR078C	#76D7C4	circle	Type: gene<br>FC: 3.15<br>Function: Putative protein of unknown function<br>	UP
+BNA2	#76D7C4	circle	Type: gene<br>FC: 3.59<br>Function: Tryptophan 2,3-dioxygenase or indoleamine 2,3-dioxygenase<br>	UP
+GDB1	#76D7C4	circle	Type: gene<br>FC: 2.04<br>Function: Glycogen debranching enzyme<br>	UP
+AMA1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Activator of meiotic anaphase promoting complex (APC/C)<br>	UP
+KNH1	#76D7C4	circle	Type: gene<br>FC: 1.62<br>Function: Protein with similarity to Kre9p<br>	UP
+HSP78	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Oligomeric mitochondrial matrix chaperone<br>	UP
+PUT1	#76D7C4	circle	Type: gene<br>FC: 1.56<br>Function: Proline oxidase<br>	UP
+MND1	#76D7C4	circle	Type: gene<br>FC: 2.05<br>Function: Protein required for recombination and meiotic nuclear division<br>	UP
+STR3	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Peroxisomal cystathionine beta-lyase<br>	UP
+CLD1	#76D7C4	circle	Type: gene<br>FC: 2.64<br>Function: Mitochondrial cardiolipin-specific phospholipase<br>	UP
+YIL060W	#76D7C4	circle	Type: gene<br>FC: 2.11<br>Function: Mitochondrial protein of unknown function<br>	UP
+ATO2	#76D7C4	circle	Type: gene<br>FC: 1.75<br>Function: Putative transmembrane protein involved in export of ammonia<br>	UP
+HSP31	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Methylglyoxalase that converts methylglyoxal to D-lactate<br>	UP
+IRC15	#76D7C4	circle	Type: gene<br>FC: 3.17<br>Function: Microtubule associated protein<br>	UP
+DDR2	#76D7C4	circle	Type: gene<br>FC: 4.59<br>Function: Multi-stress response protein<br>	UP
+TPO2	#76D7C4	circle	Type: gene<br>FC: 2.58<br>Function: Polyamine transporter of the major facilitator superfamily<br>	UP
+RNP1	#76D7C4	circle	Type: gene<br>FC: 3.52<br>Function: Ribonucleoprotein that contains two RNA recognition motifs (RRM)<br>	UP
+SLZ1	#76D7C4	circle	Type: gene<br>FC: 2.17<br>Function: Sporulation-specific protein with a leucine zipper motif<br>	UP
+YNL194C	#76D7C4	circle	Type: gene<br>FC: 4.05<br>Function: Integral membrane protein<br>	UP
+YLR031W	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: Putative protein of unknown function<br>	UP
+HSP30	#76D7C4	circle	Type: gene<br>FC: 2.69<br>Function: Negative regulator of the H(+)-ATPase Pma1p<br>	UP
+YLR030W	#76D7C4	circle	Type: gene<br>FC: 2.49<br>Function: Putative protein of unknown function<br>	UP
+VBA5	#76D7C4	circle	Type: gene<br>FC: 2.47<br>Function: Plasma membrane protein of the Major Facilitator Superfamily (MFS)<br>	UP
+GCY1	#76D7C4	circle	Type: gene<br>FC: 1.72<br>Function: Glycerol dehydrogenase<br>	UP
+YHR139C-A	#76D7C4	circle	Type: gene<br>FC: 2.16<br>Function: Putative protein of unknown function<br>	UP
+AMS1	#76D7C4	circle	Type: gene<br>FC: 2.43<br>Function: Vacuolar alpha mannosidase<br>	UP
+HXT8	#76D7C4	circle	Type: gene<br>FC: 1.3<br>Function: Protein of unknown function with similarity to hexose transporters<br>	UP
+CMK2	#76D7C4	circle	Type: gene<br>FC: 1.06<br>Function: Calmodulin-dependent protein kinase<br>	UP
+RCK1	#76D7C4	circle	Type: gene<br>FC: 1.5<br>Function: Protein kinase involved in oxidative stress response<br>	UP
+ERR3	#76D7C4	circle	Type: gene<br>FC: 0.84<br>Function: Enolase, a phosphopyruvate hydratase<br>	UP
+GRE3	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Aldose reductase<br>	UP
+TKL2	#76D7C4	circle	Type: gene<br>FC: 2.75<br>Function: Transketolase<br>	UP
+SMA2	#76D7C4	circle	Type: gene<br>FC: 3.39<br>Function: Meiosis-specific prospore membrane protein<br>	UP
+YGR066C	#76D7C4	circle	Type: gene<br>FC: 2.41<br>Function: Recognition component (N-recognin) of the Pro/N-degron pathway<br>	UP
+SOR1	#76D7C4	circle	Type: gene<br>FC: 1.66<br>Function: Sorbitol dehydrogenase<br>	UP
+FBP1	#76D7C4	circle	Type: gene<br>FC: 1.34<br>Function: Fructose-1,6-bisphosphatase<br>	UP
+INH1	#76D7C4	circle	Type: gene<br>FC: 2.09<br>Function: Protein that inhibits ATP hydrolysis by the F1F0-ATP synthase<br>	UP
+YOR289W	#76D7C4	circle	Type: gene<br>FC: 1.78<br>Function: Putative protein of unknown function<br>	UP
+PDC6	#76D7C4	circle	Type: gene<br>FC: 3.23<br>Function: Minor isoform of pyruvate decarboxylase<br>	UP
+TFS1	#76D7C4	circle	Type: gene<br>FC: 2.83<br>Function: Inhibitor of carboxypeptidase Y (Prc1p), and Ras GAP (Ira2p)<br>	UP
+YGR146C-A	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: Putative protein of unknown function<br>	UP
+IRC4	#76D7C4	circle	Type: gene<br>FC: 1.49<br>Function: Protein similar to bacterial secreted DfsB proteins<br>	UP
+YDL186W	#76D7C4	circle	Type: gene<br>FC: 1.24<br>Function: Putative protein of unknown function<br>	UP
+YFL019C	#76D7C4	circle	Type: gene<br>FC: 1.59<br>Function: Putative protein of unknown function<br>	UP
+IDH2	#76D7C4	circle	Type: gene<br>FC: 1.47<br>Function: Subunit of mitochondrial NAD(+)-dependent isocitrate dehydrogenase<br>	UP
+UBI4	#76D7C4	circle	Type: gene<br>FC: 2.36<br>Function: Ubiquitin<br>	UP
+BAG7	#76D7C4	circle	Type: gene<br>FC: 3.98<br>Function: Rho GTPase activating protein (RhoGAP)<br>	UP
+MF(ALPHA)1	#76D7C4	circle	Type: gene<br>FC: 2.37<br>Function: Mating pheromone alpha-factor, made by alpha cells<br>	UP
+UIP4	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: Protein that interacts with Ulp1p<br>	UP
+YLR012C	#76D7C4	circle	Type: gene<br>FC: 1.08<br>Function: Putative protein of unknown function<br>	UP
+YMR196W	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: Putative protein of unknown function<br>	UP
+RRT6	#76D7C4	circle	Type: gene<br>FC: 1.82<br>Function: Integral membrane protein, member of the p24 family<br>	UP
+CRG1	#76D7C4	circle	Type: gene<br>FC: 1.93<br>Function: S-AdoMet-dependent methyltransferase involved in lipid homeostasis<br>	UP
+VID24	#76D7C4	circle	Type: gene<br>FC: 1.47<br>Function: GID Complex regulatory subunit<br>	UP
+MOH1	#76D7C4	circle	Type: gene<br>FC: 3.45<br>Function: Protein of unknown function, essential for stationary phase survival<br>	UP
+YBL048W	#76D7C4	circle	Type: gene<br>FC: 3.78<br>Function: Putative protein of unknown function<br>	UP
+ZIP2	#76D7C4	circle	Type: gene<br>FC: 1.92<br>Function: Meiosis-specific protein<br>	UP
+HOP2	#76D7C4	circle	Type: gene<br>FC: 1.41<br>Function: Meiosis-specific protein that localizes to chromosomes<br>	UP
+SPO20	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Meiosis-specific subunit of the t-SNARE complex<br>	UP
+NDE2	#76D7C4	circle	Type: gene<br>FC: 2.64<br>Function: Mitochondrial external NADH dehydrogenase<br>	UP
+FMP16	#76D7C4	circle	Type: gene<br>FC: 2.54<br>Function: Protein of unknown function<br>	UP
+DIT2	#76D7C4	circle	Type: gene<br>FC: 1.9<br>Function: N-formyltyrosine oxidase<br>	UP
+RRT12	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Probable subtilisin-family protease<br>	UP
+ECM13	#76D7C4	circle	Type: gene<br>FC: 1.32<br>Function: Non-essential protein of unknown function<br>	UP
+RTC3	#76D7C4	circle	Type: gene<br>FC: 2.6<br>Function: Protein of unknown function involved in RNA metabolism<br>	UP
+MCH2	#76D7C4	circle	Type: gene<br>FC: 2.26<br>Function: Protein with similarity to mammalian monocarboxylate permeases<br>	UP
+OSW2	#76D7C4	circle	Type: gene<br>FC: 2.02<br>Function: Protein of unknown function reputedly involved in spore wall assembly<br>	UP
+CRC1	#76D7C4	circle	Type: gene<br>FC: 2.9<br>Function: Mitochondrial inner membrane carnitine transporter<br>	UP
+YLR053C	#76D7C4	circle	Type: gene<br>FC: 1.15<br>Function: Putative protein of unknown function<br>	UP
+SIP18	#76D7C4	circle	Type: gene<br>FC: 2.12<br>Function: Phospholipid-binding hydrophilin<br>	UP
+HSP104	#76D7C4	circle	Type: gene<br>FC: 2.84<br>Function: Disaggregase<br>	UP
+YJL133C-A	#76D7C4	circle	Type: gene<br>FC: 1.82<br>Function: Putative mitochondrial protein of unknown function<br>	UP
+THI5	#76D7C4	circle	Type: gene<br>FC: 1.85<br>Function: Protein involved in synthesis of the thiamine precursor HMP<br>	UP
+HXT4	#76D7C4	circle	Type: gene<br>FC: 0.89<br>Function: High-affinity glucose transporter<br>	UP
+YPR099C	#76D7C4	circle	Type: gene<br>FC: 1.84<br>Function: Mitochondrial protein of unknown function<br>	UP
+NQM1	#76D7C4	circle	Type: gene<br>FC: 3.45<br>Function: Transaldolase of unknown function<br>	UP
+HCH1	#76D7C4	circle	Type: gene<br>FC: 1.72<br>Function: Heat shock protein regulator<br>	UP
+SRL4	#76D7C4	circle	Type: gene<br>FC: 3.2<br>Function: Protein of unknown function<br>	UP
+POT1	#76D7C4	circle	Type: gene<br>FC: 0.97<br>Function: 3-ketoacyl-CoA thiolase with broad chain length specificity<br>	UP
+SDH6	#76D7C4	circle	Type: gene<br>FC: 2.15<br>Function: Mitochondrial protein involved in assembly of succinate dehydrogenase<br>	UP
+SMA1	#76D7C4	circle	Type: gene<br>FC: 3.2<br>Function: Protein of unknown function involved in prospore membrane assembly<br>	UP
+APE1	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Vacuolar aminopeptidase yscI<br>	UP
+YGR273C	#76D7C4	circle	Type: gene<br>FC: 4.16<br>Function: Putative protein of unknown function<br>	UP
+YKL107W	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: NADH-dependent aldehyde reductase<br>	UP
+MEI4	#76D7C4	circle	Type: gene<br>FC: 1.67<br>Function: Meiosis-specific protein involved in forming DSBs<br>	UP
+BSC4	#76D7C4	circle	Type: gene<br>FC: 2.46<br>Function: Protein of unknown function<br>	UP
+YNL042W-B	#76D7C4	circle	Type: gene<br>FC: 1.01<br>Function: Putative protein of unknown function<br>	UP
+ALD3	#76D7C4	circle	Type: gene<br>FC: 2.75<br>Function: Cytoplasmic aldehyde dehydrogenase<br>	UP
+JEN1	#76D7C4	circle	Type: gene<br>FC: 1.52<br>Function: Monocarboxylate/proton symporter of the plasma membrane<br>	UP
+HXT5	#76D7C4	circle	Type: gene<br>FC: 4.09<br>Function: Hexose transporter with moderate affinity for glucose<br>	UP
+PAI3	#76D7C4	circle	Type: gene<br>FC: 2.56<br>Function: Cytoplasmic proteinase A (Pep4p) inhibitor<br>	UP
+SPR3	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: Sporulation-specific homolog of the CDC3/10/11/12 family of genes<br>	UP
+GPG1	#76D7C4	circle	Type: gene<br>FC: 3.96<br>Function: Proposed gamma subunit of the heterotrimeric G protein<br>	UP
+UGX2	#76D7C4	circle	Type: gene<br>FC: 2.15<br>Function: Protein of unknown function<br>	UP
+YLR149C	#76D7C4	circle	Type: gene<br>FC: 1.68<br>Function: Substrate receptor of the glucose-induced degradation-deficient (GID) <br>	UP
+GOR1	#76D7C4	circle	Type: gene<br>FC: 1.85<br>Function: Glyoxylate reductase<br>	UP
+PHO84	#76D7C4	circle	Type: gene<br>FC: 0.52<br>Function: High-affinity inorganic phosphate (Pi) transporter<br>	UP
+YOR385W	#76D7C4	circle	Type: gene<br>FC: 1.39<br>Function: Putative protein of unknown function<br>	UP
+AIM26	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Protein of unknown function<br>	UP
+YNR064C	#76D7C4	circle	Type: gene<br>FC: 2.25<br>Function: Epoxide hydrolase<br>	UP
+PHO5	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: Repressible acid phosphatase<br>	UP
+MSC1	#76D7C4	circle	Type: gene<br>FC: 1.94<br>Function: Protein of unknown function<br>	UP
+YNR068C	#76D7C4	circle	Type: gene<br>FC: 1.7<br>Function: Putative protein of unknown function<br>	UP
+SPO75	#76D7C4	circle	Type: gene<br>FC: 2.65<br>Function: Meiosis-specific protein of unknown function<br>	UP
+YHR007C-A	#76D7C4	circle	Type: gene<br>FC: 2.87<br>Function: Putative protein of unknown function<br>	UP
+YHR022C	#76D7C4	circle	Type: gene<br>FC: 2.2<br>Function: Putative protein of unknown function<br>	UP
+PUG1	#76D7C4	circle	Type: gene<br>FC: 1.78<br>Function: Plasma membrane protein involved in protoprophyrin and heme transport<br>	UP
+ABM1	#76D7C4	circle	Type: gene<br>FC: 1.41<br>Function: Protein of unknown function<br>	UP
+HOR7	#76D7C4	circle	Type: gene<br>FC: 2.53<br>Function: Protein of unknown function<br>	UP
+GSM1	#76D7C4	circle	Type: gene<br>FC: 1.66<br>Function: Putative zinc cluster protein of unknown function<br>	UP
+PST1	#76D7C4	circle	Type: gene<br>FC: 1.83<br>Function: Cell wall protein that contains a putative GPI-attachment site<br>	UP
+IDH1	#76D7C4	circle	Type: gene<br>FC: 1.21<br>Function: Subunit of mitochondrial NAD(+)-dependent isocitrate dehydrogenase<br>	UP
+YDR034W-B	#76D7C4	circle	Type: gene<br>FC: 2.16<br>Function: Predicted tail-anchored plasma membrane protein<br>	UP
+YDR182W-A	#76D7C4	circle	Type: gene<br>FC: 0.55<br>Function: Putative protein of unknown function<br>	UP
+SOR2	#76D7C4	circle	Type: gene<br>FC: 1.85<br>Function: Sorbitol dehydrogenase<br>	UP
+YNL034W	#76D7C4	circle	Type: gene<br>FC: 1.71<br>Function: Putative protein of unknown function<br>	UP
+SSA3	#76D7C4	circle	Type: gene<br>FC: 2.53<br>Function: ATPase involved in protein folding and the response to stress<br>	UP
+FDH1	#76D7C4	circle	Type: gene<br>FC: 2.62<br>Function: NAD(+)-dependent formate dehydrogenase<br>	UP
+UBC5	#76D7C4	circle	Type: gene<br>FC: 1.66<br>Function: Ubiquitin-conjugating enzyme<br>	UP
+YER085C	#76D7C4	circle	Type: gene<br>FC: 1.97<br>Function: Putative protein of unknown function<br>	UP
+CSM4	#76D7C4	circle	Type: gene<br>FC: 2.38<br>Function: Protein required for accurate chromosome segregation during meiosis<br>	UP
+YJR128W	#76D7C4	circle	Type: gene<br>FC: 2.01<br>Function: Putative protein of unknown function<br>	UP
+GSC2	#76D7C4	circle	Type: gene<br>FC: 2.12<br>Function: Catalytic subunit of 1,3-beta-glucan synthase<br>	UP
+NCA3	#76D7C4	circle	Type: gene<br>FC: 3.21<br>Function: Protein involved in mitochondrion organization<br>	UP
+SPL2	#76D7C4	circle	Type: gene<br>FC: 0.92<br>Function: Protein with similarity to cyclin-dependent kinase inhibitors<br>	UP
+ARO9	#76D7C4	circle	Type: gene<br>FC: 1.76<br>Function: Aromatic aminotransferase II<br>	UP
+YHR138C	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: Protein of unknown function<br>	UP
+SPS100	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: Protein required for spore wall maturation<br>	UP
+YOL118C	#76D7C4	circle	Type: gene<br>FC: 1.04<br>Function: Putative protein of unknown function<br>	UP
+COX26	#76D7C4	circle	Type: gene<br>FC: 1.69<br>Function: Subunit of cytochrome C oxidase complex<br>	UP
+MPC54	#76D7C4	circle	Type: gene<br>FC: 2.17<br>Function: Component of the meiotic outer plaque<br>	UP
+HSP42	#76D7C4	circle	Type: gene<br>FC: 1.81<br>Function: Small heat shock protein (sHSP) with chaperone activity<br>	UP
+TMA10	#76D7C4	circle	Type: gene<br>FC: 2.23<br>Function: Protein of unknown function that associates with ribosomes<br>	UP
+DCS2	#76D7C4	circle	Type: gene<br>FC: 2.34<br>Function: m(7)GpppX pyrophosphatase regulator<br>	UP
+YML122C	#76D7C4	circle	Type: gene<br>FC: 2.48<br>Function: Putative protein of unknown function<br>	UP
+ECM11	#76D7C4	circle	Type: gene<br>FC: 2.66<br>Function: Meiosis-specific protein<br>	UP
+YNR034W-A	#76D7C4	circle	Type: gene<br>FC: 3.1<br>Function: Protein of unknown function<br>	UP
+PDH1	#76D7C4	circle	Type: gene<br>FC: 1.95<br>Function: Putative 2-methylcitrate dehydratase<br>	UP
+HSP26	#76D7C4	circle	Type: gene<br>FC: 5.82<br>Function: Small heat shock protein (sHSP) with chaperone activity<br>	UP
+REC8	#76D7C4	circle	Type: gene<br>FC: 2.81<br>Function: Meiosis-specific component of the sister chromatid cohesion complex<br>	UP
+ECM8	#76D7C4	circle	Type: gene<br>FC: 2.72<br>Function: Non-essential protein of unknown function<br>	UP
+PBI2	#76D7C4	circle	Type: gene<br>FC: 1.89<br>Function: Cytosolic inhibitor of vacuolar proteinase B (PRB1)<br>	UP
+GSP2	#76D7C4	circle	Type: gene<br>FC: 2.24<br>Function: GTP binding protein (mammalian Ranp homolog)<br>	UP
+TSA2	#76D7C4	circle	Type: gene<br>FC: 2.14<br>Function: Stress inducible cytoplasmic thioredoxin peroxidase<br>	UP
+YKL151C	#76D7C4	circle	Type: gene<br>FC: 1.86<br>Function: Widely-conserved NADHX dehydratase<br>	UP
+YDL114W	#76D7C4	circle	Type: gene<br>FC: 2.59<br>Function: Putative short-chain dehydrogenase/reductase<br>	UP
+GPP2	#76D7C4	circle	Type: gene<br>FC: 2.45<br>Function: DL-glycerol-3-phosphate phosphatase involved in glycerol biosynthesis<br>	UP
+YHR054C	#76D7C4	circle	Type: gene<br>FC: 1.37<br>Function: Putative protein of unknown function<br>	UP
+GAS4	#76D7C4	circle	Type: gene<br>FC: 2.28<br>Function: 1,3-beta-glucanosyltransferase<br>	UP
+YOL131W	#76D7C4	circle	Type: gene<br>FC: 4.39<br>Function: Putative protein of unknown function<br>	UP
+YGP1	#76D7C4	circle	Type: gene<br>FC: 3.09<br>Function: Cell wall-related secretory glycoprotein<br>	UP
+YLR194C	#76D7C4	circle	Type: gene<br>FC: 1.99<br>Function: GPI-anchored protein involved in cell wall remodeling<br>	UP
+SPO77	#76D7C4	circle	Type: gene<br>FC: 1.73<br>Function: Meiosis-specific protein of unknown function<br>	UP
+YMR206W	#76D7C4	circle	Type: gene<br>FC: 1.32<br>Function: Putative protein of unknown function<br>	UP
+CIN2	#BB8FCE	circle	Type: gene<br>FC: -1.64<br>Function: GTPase-activating protein (GAP) for Cin4p<br>	DOWN
+ASC1	#BB8FCE	circle	Type: gene<br>FC: -1.4<br>Function: G-protein beta subunit and guanine dissociation inhibitor for Gpa2p<br>	DOWN
+HO	#BB8FCE	circle	Type: gene<br>FC: -2.21<br>Function: Site-specific endonuclease<br>	DOWN
+TIR1	#BB8FCE	circle	Type: gene<br>FC: -0.25<br>Function: Cell wall mannoprotein<br>	DOWN
+YBR032W	#BB8FCE	circle	Type: gene<br>FC: -0.88<br>Function: Putative protein of unknown function<br>	DOWN
+FIG1	#BB8FCE	circle	Type: gene<br>FC: -0.48<br>Function: Integral membrane protein required for efficient mating<br>	DOWN
+AGA1	#BB8FCE	circle	Type: gene<br>FC: -2.19<br>Function: Anchorage subunit of a-agglutinin of a-cells<br>	DOWN
+YAR075W	#BB8FCE	circle	Type: gene<br>FC: -1.17<br>Function: Non-functional protein with homology IMP dehydrogenase<br>	DOWN
+PAU13	#BB8FCE	circle	Type: gene<br>FC: -1.84<br>Function: Protein of unknown function<br>	DOWN
+PAU18	#BB8FCE	circle	Type: gene<br>FC: -0.77<br>Function: Protein of unknown function<br>	DOWN
+YHB1	#BB8FCE	circle	Type: gene<br>FC: -1.64<br>Function: Nitric oxide oxidoreductase<br>	DOWN
+AZR1	#BB8FCE	circle	Type: gene<br>FC: -4.34<br>Function: Plasma membrane transporter of the major facilitator superfamily<br>	DOWN
+LEU1	#BB8FCE	circle	Type: gene<br>FC: -2.45<br>Function: Isopropylmalate isomerase<br>	DOWN
+DAN1	#BB8FCE	circle	Type: gene<br>FC: -1.2<br>Function: Cell wall mannoprotein<br>	DOWN
+STE2	#BB8FCE	circle	Type: gene<br>FC: -1.35<br>Function: Receptor for alpha-factor pheromone<br>	DOWN
+RPL9A	#BB8FCE	circle	Type: gene<br>FC: -1.65<br>Function: Ribosomal 60S subunit protein L9A<br>	DOWN
+PRM1	#BB8FCE	circle	Type: gene<br>FC: -1.72<br>Function: Pheromone-regulated multispanning membrane protein<br>	DOWN
+MET6	#BB8FCE	circle	Type: gene<br>FC: -0.93<br>Function: Cobalamin-independent methionine synthase<br>	DOWN
+MDH2	#BB8FCE	circle	Type: gene<br>FC: -1.65<br>Function: Cytoplasmic malate dehydrogenase<br>	DOWN
+YPL205C	#BB8FCE	circle	Type: gene<br>FC: -0.96<br>Function: Hypothetical protein<br>	DOWN
+COS12	#BB8FCE	circle	Type: gene<br>FC: -2.63<br>Function: Endosomal protein involved in turnover of plasma membrane proteins<br>	DOWN
+ILV3	#BB8FCE	circle	Type: gene<br>FC: -1.58<br>Function: Dihydroxyacid dehydratase<br>	DOWN
+PAU6	#BB8FCE	circle	Type: gene<br>FC: -0.72<br>Function: Member of the seripauperin multigene family<br>	DOWN
+alanine	#76D7C4	square	Type: metabolite<br>FC: 1.54	UP
+arginine	#76D7C4	square	Type: metabolite<br>FC: 0.89	UP
+aspartic_acid	#76D7C4	square	Type: metabolite<br>FC: 1.06	UP
+atp	#76D7C4	square	Type: metabolite<br>FC: 2.19	UP
+citrate	#76D7C4	square	Type: metabolite<br>FC: 1.69	UP
+ethanol	#76D7C4	square	Type: metabolite<br>FC: 1.05	UP
+fructose_1_6_biphosphate	#76D7C4	square	Type: metabolite<br>FC: 0.78	UP
+galactitol	#76D7C4	square	Type: metabolite<br>FC: 1.14	UP
+glutamic_acid	#76D7C4	square	Type: metabolite<br>FC: 1.21	UP
+glutamine	#76D7C4	square	Type: metabolite<br>FC: 1.5	UP
+glutathione	#76D7C4	square	Type: metabolite<br>FC: 1.37	UP
+glycine	#76D7C4	square	Type: metabolite<br>FC: 0.89	UP
+gmp	#76D7C4	square	Type: metabolite<br>FC: 0.86	UP
+glycerophosphocholine	#76D7C4	square	Type: metabolite<br>FC: 1.93	UP
+histidine	#76D7C4	square	Type: metabolite<br>FC: 1.05	UP
+isoleucine	#76D7C4	square	Type: metabolite<br>FC: 0.72	UP
+lactate	#76D7C4	square	Type: metabolite<br>FC: 1.14	UP
+leucine	#76D7C4	square	Type: metabolite<br>FC: 1.13	UP
+myo_inositol	#76D7C4	square	Type: metabolite<br>FC: 0.96	UP
+phenylalanine	#76D7C4	square	Type: metabolite<br>FC: 1.15	UP
+serine	#76D7C4	square	Type: metabolite<br>FC: 6.77	UP
+thiamine_derivate_1	#76D7C4	square	Type: metabolite<br>FC: 1.15	UP
+thiamine_derivate_2	#76D7C4	square	Type: metabolite<br>FC: 0.99	UP
+tryptophan	#76D7C4	square	Type: metabolite<br>FC: 1.1	UP
+tyrosine	#76D7C4	square	Type: metabolite<br>FC: 1.32	UP
+udp_derivative_2	#76D7C4	square	Type: metabolite<br>FC: 0.91	UP
+valine	#76D7C4	square	Type: metabolite<br>FC: 0.91	UP
+beta_d_glucuronic_acid	#76D7C4	square	Type: metabolite<br>FC: 1.2	UP
+trehalose	#BB8FCE	square	Type: metabolite<br>FC: -22.67	DOWN
+udp_derivative_1	#BB8FCE	square	Type: metabolite<br>FC: -1.66	DOWN
+GAL4	#76D7C4	triangle	Type: tf<br>FC: 1.04<br>Function: DNA-binding transcription factor required for activating GAL genes<br>	UP
+PRR2	#76D7C4	triangle	Type: tf<br>FC: 1.2<br>Function: Serine/threonine protein kinase<br>	UP
+HMS1	#76D7C4	triangle	Type: tf<br>FC: 2.17<br>Function: bHLH protein with similarity to myc-family transcription factors<br>	UP
+RLM1	#76D7C4	triangle	Type: tf<br>FC: 1.24<br>Function: MADS-box transcription factor<br>	UP
+YPL088W	#76D7C4	triangle	Type: tf<br>FC: 1.76<br>Function: Putative aryl alcohol dehydrogenase<br>	UP
+ACA1	#76D7C4	triangle	Type: tf<br>FC: 1.36<br>Function: ATF/CREB family basic leucine zipper (bZIP) transcription factor<br>	UP
+YHR177W	#76D7C4	triangle	Type: tf<br>FC: 0.63<br>Function: Putative transcription factor containing a WOPR domain<br>	UP
+TOS8	#76D7C4	triangle	Type: tf<br>FC: 1.05<br>Function: Homeodomain-containing protein and putative transcription factor<br>	UP
+YPR015C	#76D7C4	triangle	Type: tf<br>FC: 0.94<br>Function: Putative zinc finger transcription factor<br>	UP
+ADR1	#76D7C4	triangle	Type: tf<br>FC: 1.34<br>Function: Carbon source-responsive zinc-finger transcription factor<br>	UP
+ZPS1	#76D7C4	triangle	Type: tf<br>FC: 0.95<br>Function: Putative GPI-anchored protein<br>	UP
+EDS1	#76D7C4	triangle	Type: tf<br>FC: 2.12<br>Function: Putative zinc cluster protein, predicted to be a transcription factor<br>	UP
+USV1	#76D7C4	triangle	Type: tf<br>FC: 1.42<br>Function: Putative transcription factor containing a C2H2 zinc finger<br>	UP
+LPL1	#76D7C4	triangle	Type: tf<br>FC: 0.92<br>Function: Phospholipase<br>	UP
+MFG1	#76D7C4	triangle	Type: tf<br>FC: 0.68<br>Function: Regulator of filamentous growth<br>	UP
+HYR1	#76D7C4	triangle	Type: tf<br>FC: 0.74<br>Function: Glutathione peroxidase<br>	UP
+RSF1	#76D7C4	triangle	Type: tf<br>FC: 0.77<br>Function: Protein required for respiratory growth<br>	UP
+NPL4	#76D7C4	triangle	Type: tf<br>FC: 0.74<br>Function: Substrate-recruiting cofactor of the Cdc48p-Npl4p-Ufd1p segregase<br>	UP
+TAF13	#76D7C4	triangle	Type: tf<br>FC: 0.72<br>Function: TFIID subunit (19 kDa)<br>	UP
+IME1	#76D7C4	triangle	Type: tf<br>FC: 0.71<br>Function: Master regulator of meiosis that is active only during meiotic events<br>	UP
+MAL33	#76D7C4	triangle	Type: tf<br>FC: 0.67<br>Function: MAL-activator protein<br>	UP
+SMP1	#76D7C4	triangle	Type: tf<br>FC: 1.39<br>Function: MADS-box transcription factor involved in osmotic stress response<br>	UP
+RRN7	#76D7C4	triangle	Type: tf<br>FC: 0.65<br>Function: Component of the core factor (CF) rDNA transcription factor complex<br>	UP
+POX1	#76D7C4	triangle	Type: tf<br>FC: 2.11<br>Function: Fatty-acyl coenzyme A oxidase<br>	UP
+CIT2	#76D7C4	triangle	Type: tf<br>FC: 1.47<br>Function: Citrate synthase, peroxisomal isozyme involved in glyoxylate cycle<br>	UP
+CAT8	#76D7C4	triangle	Type: tf<br>FC: 1.87<br>Function: Zinc cluster transcriptional activator<br>	UP
+STP4	#76D7C4	triangle	Type: tf<br>FC: 0.96<br>Function: Protein containing a Kruppel-type zinc-finger domain<br>	UP
+YAP6	#76D7C4	triangle	Type: tf<br>FC: 1.16<br>Function: Basic leucine zipper (bZIP) transcription factor<br>	UP
+MET32	#76D7C4	triangle	Type: tf<br>FC: 1.0<br>Function: Zinc-finger DNA-binding transcription factor<br>	UP
+MAL13	#76D7C4	triangle	Type: tf<br>FC: 0.9<br>Function: MAL-activator protein<br>	UP
+CUP2	#76D7C4	triangle	Type: tf<br>FC: 0.93<br>Function: Copper-binding transcription factor<br>	UP
+HXT9	#76D7C4	triangle	Type: tf<br>FC: 2.05<br>Function: Putative hexose transporter that is nearly identical to Hxt11p<br>	UP
+PPR1	#76D7C4	triangle	Type: tf<br>FC: 0.77<br>Function: Zinc finger transcription factor<br>	UP
+MIG1	#76D7C4	triangle	Type: tf<br>FC: 0.69<br>Function: Transcription factor involved in glucose repression<br>	UP
+FKH2	#76D7C4	triangle	Type: tf<br>FC: 0.51<br>Function: Forkhead family transcription factor<br>	UP
+EMI1	#76D7C4	triangle	Type: tf<br>FC: 0.82<br>Function: Non-essential protein of unknown function<br>	UP
+EMI2	#76D7C4	triangle	Type: tf<br>FC: 1.0<br>Function: Hexokinase expressed during growth with low glucose levels<br>	UP
+UFD1	#76D7C4	triangle	Type: tf<br>FC: 0.85<br>Function: Substrate-recruiting cofactor of the Cdc48p-Npl4p-Ufd1p segregase<br>	UP
+RGM1	#76D7C4	triangle	Type: tf<br>FC: 1.13<br>Function: Putative zinc finger DNA binding transcription factor<br>	UP
+HAP4	#76D7C4	triangle	Type: tf<br>FC: 0.75<br>Function: Transcription factor<br>	UP
+YFL052W	#76D7C4	triangle	Type: tf<br>FC: 1.34<br>Function: Zinc cluster transcription factor that regulates respiratory growth<br>	UP
+PDR1	#76D7C4	triangle	Type: tf<br>FC: 0.77<br>Function: Transcription factor that regulates the pleiotropic drug response<br>	UP
+RGT1	#76D7C4	triangle	Type: tf<br>FC: 0.63<br>Function: Glucose-responsive transcription factor<br>	UP
+SRL3	#76D7C4	triangle	Type: tf<br>FC: 0.9<br>Function: Repressor of transcription at Start<br>	UP
+YOR387C	#76D7C4	triangle	Type: tf<br>FC: 1.43<br>Function: Putative protein of unknown function<br>	UP
+YPR127W	#76D7C4	triangle	Type: tf<br>FC: 1.31<br>Function: Putative pyridoxine 4-dehydrogenase<br>	UP
+YAP1	#76D7C4	triangle	Type: tf<br>FC: 0.71<br>Function: Basic leucine zipper (bZIP) transcription factor<br>	UP
+CRZ1	#76D7C4	triangle	Type: tf<br>FC: 0.67<br>Function: Transcription factor, activates transcription of stress response genes<br>	UP
+GAC1	#76D7C4	triangle	Type: tf<br>FC: 3.22<br>Function: Regulatory subunit for Glc7p type-1 protein phosphatase (PP1)<br>	UP
+NDT80	#76D7C4	triangle	Type: tf<br>FC: 1.54<br>Function: Meiosis-specific transcription factor<br>	UP
+YLL056C	#BB8FCE	triangle	Type: tf<br>FC: -0.75<br>Function: NADH-dependent aldehyde reductase<br>	DOWN
+YGR035C	#BB8FCE	triangle	Type: tf<br>FC: -1.83<br>Function: Putative protein of unknown function, potential Cdc28p substrate<br>	DOWN
+SNG1	#BB8FCE	triangle	Type: tf<br>FC: -1.34<br>Function: Protein involved in resistance to nitrosoguanidine and 6-azauracil<br>	DOWN
+HMS2	#BB8FCE	triangle	Type: tf<br>FC: -0.63<br>Function: Protein with similarity to heat shock transcription factors<br>	DOWN
+YLR346C	#BB8FCE	triangle	Type: tf<br>FC: -1.17<br>Function: Protein of unknown function found in mitochondria<br>	DOWN
