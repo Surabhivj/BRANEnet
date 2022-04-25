@@ -13,6 +13,8 @@ T = widow size
 
 d = embedding dimension
 
+type = 'gml' or 'edgelist'
+
  ```
  python BRANEnet.py --multilayer_networkfile network_file.gml --T 3 --d 128 --type 'gml'
  
