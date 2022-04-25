@@ -8,7 +8,9 @@ Embedding Multilayer Networks for Omics Data Integration
 # To compute embedding for user input network, Please run following command. 
 
 multilayer_networkfile = multilayer/single layer network file in 'gml' or 'edgelist' format
+
 T = widow size 
+
 d = embedding dimension
 
  ```
