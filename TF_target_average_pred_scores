@@ -1,0 +1,11 @@
+Train_data Embedding_file Operator AUPR AUROC
+1 BRANEnet_emb/BRANet_EdgeList_R_train0_w_3_d_128.emb average 0.8519753863380292 0.9279661182158453
+2 BRANEnet_emb/BRANet_EdgeList_R_train1_w_3_d_128.emb average 0.8784978441086062 0.9405688074640877
+3 BRANEnet_emb/BRANet_EdgeList_R_train2_w_3_d_128.emb average 0.8690971868557946 0.9360235524049578
+4 BRANEnet_emb/BRANet_EdgeList_R_train3_w_3_d_128.emb average 0.8538978868368485 0.9302442635589059
+5 BRANEnet_emb/BRANet_EdgeList_R_train4_w_3_d_128.emb average 0.8505041778540288 0.9273884866446761
+6 BRANEnet_emb/BRANet_EdgeList_R_train5_w_3_d_128.emb average 0.8712170824526257 0.9407481477708632
+7 BRANEnet_emb/BRANet_EdgeList_R_train6_w_3_d_128.emb average 0.8746161079270481 0.938255154574893
+8 BRANEnet_emb/BRANet_EdgeList_R_train7_w_3_d_128.emb average 0.8752838797420226 0.9389495744806663
+9 BRANEnet_emb/BRANet_EdgeList_R_train8_w_3_d_128.emb average 0.8697369949514799 0.9355421813946349
+10 BRANEnet_emb/BRANet_EdgeList_R_train9_w_3_d_128.emb average 0.8602864586347869 0.9333087493441158
